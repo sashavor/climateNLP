@@ -29,11 +29,10 @@ def main(argv):
         os.system(prediction_command)
         print("Done predicting for  ...")
 
-        print("Joining predictions output (%s) with original tsv (%s) ...\n\n"%(output_path, fpath))
+        print("Joining predictions output (%s) with original generated tsv (%s) ...\n\n"%(output_path, fpath))
+        # join 
         join_tsv_with_preds(fpath, output_path, output_dir)
         
-        # for testing:
-        break
         
     print("All done!")
 
