@@ -36,7 +36,7 @@ def join_tsv_with_preds(tsv_path, predictions_path, output_dir):
     positive_data_output_fpath = output_dir + "/" + tsv_path.split("/")[-1].split(".")[0] + "_with_positive_predictions.tsv"
 
     out_df = df.assign(PREDICTION_PROBABILITY_N=probabilities_N,
-             PREDEDICTION_PROBABILITY_Y=probabilities_Y,
+             PREDICTION_PROBABILITY_Y=probabilities_Y,
              PREDICTION_LABEL=predictions)
     
 #     all_data_output_fpath = "/".join(output_fpath.split("/")[:-1]) + "all_outputs_" + output_fpath.split("/")[-1]
