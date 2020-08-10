@@ -1,0 +1,860 @@
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 1IntegratingClimateInto Our StrategyNOVEMBER 2019 INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 03Foreword by Patrick Pouyanné, Chairman and Chief Executive Officer, Total  05A Board of Directors Committed to Climate Action, Maria van der Hoeven,  Member of the Board of Directors  10SHAPING TOMORROW™S ENERGY  11Greenhouse Gas Emissions and Changes to the Energy Mix  12A Conversation With Helle Kristoffersen, Total, and John M. Reilly, MIT  14OGCI: Oil and Gas Producers Pool Their Efforts  18Multiple Partnerships 20The Energy Transition: Mobilizing Every Stakeholder  21On the Front Lines on Carbon Pricing  22Four Questions for Dirk Forrister, CEO and President, IETA   24OUR INITIATIVES  25Four Climate-Oriented Strategic Focuses  26Natural Gas, a Key Energy Source   28Controlling Methane Emissions   30Low-Carbon Electricity at the Center of Our Strategy 33Alternatives for Transportation: Natural Gas and Electricity Lead the Way  36Curtailing Emissions From Our Sites  38Promoting Sustainable Biofuels  40Natural Carbon Sinks: USD 100 Million a Year to Capture and Store Carbon  42Preparing for Industrial Deployment of CCUS  43Energy Efficiency: Supporting Our Customers As They Reduce Their Emissions  45An Indicator That Monitors Customer Demand for a Smaller Carbon Footprint  47TOTAL AND INDUSTRY ASSOCIATIONS  49OUR FIGURES  53CONTENTS04 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Active in more than  130 countries, Total is a major energy operator, producing   and marketing fuels, natural gas and low-carbon electricity.Our 100,000 employees are committed to energy that is more affordable,   more reliable and cleaner.
+Our ambition is to become the responsible energy major.
+Total  at a Glanceproduced in 2018,   of which approximately 50% gas.
+2.8 Mboe/d liquefied natural   gas operator.
+A growing presence   in the gas downstream.
+The world™s  No.
+2refiner and petrochemical  manufacturer.
+Top 10A global  $1Binvested in R&D in 2018,  of which 2/3 in digital and  low-carbon technologies.
+customers for gas   and power.
+5 millionof renewable power  generation capacity   (100% operated).
+3 GWINTEGRATING CLIMATE INTO OUR STRATEGY  Ł 05Complementary  Energies   to Reconcile  Climate and  DevelopmentThe COP21 Climate Conference held in Paris in 2015  generated heightened awareness of climate issues   and was followed by two years of stable greenhouse  gas emissions, prompting hopes that a trend reversal  and future decline were on the horizon.
+Unfortunately,  the opposite proved to be the case, as emissions  climbed upward in 2017 and 2018, continuing the trend  seen from 2000 to 2015.
+Changes in the global energy mix since the start   of the century have, in fact, hindered emissions reduction.
+While production of natural gas Š the fossil fuel   that generates the least greenhouse gases in power  generation Š has risen by more than 2% a year,   the benefits have been largely offset by increased  production of coal, which emits more greenhouse gases  than any other fossil fuel and has seen growth of nearly  3% annually since 2000.
+Steady growth in renewable energies, meanwhile,   has not been enough to absorb the increase in energy  demand worldwide (about 2% a year).
+As a result, fossil  fuels continue to make up 81% of the global energy  mix, unchanged from three decades ago.
+Thus, we are still faced with the challenge of reducing  greenhouse gas emissions.
+There is no silver bullet Š   we can only respond by looking at energy supply as   a whole, rather than by pitting one form of energy against   another.
+The growth of renewable energies will be central  to the new energy mix, and natural gas is a necessary  partner to both offset the variability of renewables and  handle seasonal ˚uctuations in demand.
+That™s why at  Total, we are pragmatically and sustainably diversifying  our energy mix, with the conviction that pairing  complementary forms of energy can yield synergies,  create value and unleash technological advances.
+ﬁAt Total, we are pragmatically  and sustainably diversifying our  energy mix, with the conviction  that pairing complementary  forms of energy can yield  synergies, create value  and unleash technological  advances.
+ﬂPATRICK POUYANNÉ Chairman and Chief Executive Officer, Total  FOREWORD06 Ł INTEGRATING CLIMATE INTO OUR STRATEGY The move toward this new mix Š a combination of gas,  low-carbon electricity and oil Š needs to happen at  a pace that is compatible with consumer demand and with development in the countries where we market   our products.
+We need to strike the right balance between   urgency and acceptability.
+Our customers are asking  us to help reduce global greenhouse gas emissions  while continuing to meet rising energy demand driven  by economic and demographic growth.
+This entails  reconciling two of the U.N.™s Sustainable Development  Goals: ensuring universal access to energy and fighting  climate change.
+Our ambition is to provide as many people  as possible with energy that is cleaner, more reliable   and more affordable.
+The energy demand scenarios developed in our Total  Energy Outlook 2018 demonstrate that the current trend  in global greenhouse gas emissions diverges markedly  from any scenario compatible with the Paris Agreement,  including the International Energy Agency™s Sustainable  Development Scenario and our own Rupture scenario.
+Achieving a compatible situation would require major  changes from nations, businesses and consumers.
+Clearly, we need to take stronger action.
+We have grouped   our initiatives around four strategic focuses.
+As you will  see in the articles that follow, we have made substantial  progress in each of these areas since the previous report.
+NATURAL GAS  Œ EXPANDING OUR PRESENCE  ACROSS THE ENTIRE CHAINGas emits half the greenhouse gases of coal in power  generation1 and is a natural partner to renewable energies.
+Abundant and inexpensive, it posted the biggest growth  of any primary energy source in 2018, at 4.6%, and offers  the most immediate and practical solution for combating the rise in greenhouse gas emissions.
+For these reasons, Total has continued to expand across  the entire gas value chain, finalizing the acquisition of   Engie™s LNG assets and starting up multiple LNG projects,   including Ichthys LNG in Australia, Cameron LNG   in Louisiana and trains 2 and 3 of the Yamal LNG project  in Russia.
+Building on Yamal LNG™s success, a major new  development Š Arctic LNG 2 Š was also launched in   northern Russia, alongside Novatek.
+Lastly, Total has taken   steps to prepare the future and strengthen our reserves  by acquiring Anadarko™s gas assets in Mozambique,   with resources estimated at more than 60 trillion cubic  feet (TCF) in the main block.On the marketing side, we are pursuing an assertive  policy to develop alternative fuels for transportation.
+Total has acquired a 25% stake in Clean Energy, a U.S.  distributor of natural gas vehicle (NGV) fuel and biogas for road transportation, signed LNG bunkering contracts  with CMA CGM and Pavilion Energy, and entered into  a cooperation agreement with Adani in India covering  regasification and gas distribution.
+To fully play its role in the energy transition, the integrated  natural gas value chain will need to reduce its emissions   of methane, which has far greater warming potential  than carbon dioxide.
+Total is leading the way in this area.
+In 2018, we set an objective of reducing methane  emissions at our operated facilities2 to less than 0.2% of the commercial gas produced by 2025.
+These emissions  have already been cut by more than a quarter since 2010,   thanks to our work on ˚aring and venting.
+We are pursuing  our R&D initiatives, including a pilot project at our Lacq  facility to test innovative technology for detecting and quantifying gas leaks.LOW-CARBON ELECTRICITY Œ DEVELOPING  AN INTEGRATED BUSINESS ON THE UNREGULATED   PORTION OF THE VALUE CHAIN  Success in curbing the world™s carbon emissions   is contingent on electrifying the economy.
+That process   is under way: power consumption rose by an annual   4% in 2018, nearly twice the rate of growth in energy use.
+We are playing an instrumental role in that trend,   investing USD 1.5 billion to USD 2 billion annually  in low-carbon electricity, or more than 10% of our total  capital expenditure Š a figure unmatched by any   other major.
+The cumulative impact of that investment,  which is inherently more lasting than that of an oil or gas  project, will exceed the actual share of investment over  ﬁThe move toward this new mix   Š a combination of gas, low-carbon   electricity and oil Š needs to happen   at a pace that is compatible with  development in the countries  where we market our products.
+ﬂ1.
+Sources: ﬁLife Cycle Assessment of Greenhouse Gas Emissions Associated with  Natural Gas and Coal in Different Geographical Contexts,ﬂ International Reference  Centre for the Life Cycle of Products, Processes and Services, October 2016,   and ﬁReview of Life Cycle Analysis of Gas and Coal Supply and Power Generation from GHG and Air Quality Perspective,ﬂ Imperial College London, 2017.
+2.
+Exploration and production.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 07time, with the result that low-carbon electricity projects  could account for 15 to 20% of our energy mix by 2040.
+Total saw sustained growth in our low-carbon electricity  businesses in 2018-2019.
+In power generation,  we have bolstered capacity with the acquisition of four  combined-cycle gas power plants that, coupled  with other ongoing projects, will lift our gas-fired power  generation capacity to 2.8 GW by 2020.
+Our portfolio has expanded in renewables as well.
+We have completed our acquisition of Direct Energie   and its affiliate Quadran, respectively renamed   Total Direct Energie and Total Quadran, raised our stake  in Total Eren through the purchase of NovEnergie and,  more recently, acquired wind power firm Vents d™Oc.
+In marketing, in 2018 we created an organization devoted  to electric mobility, Total EV Charge, after acquiring  G2mobility, the French leader in smart charging solutions,  and introduced a range of products designed especially  for electric vehicles.Lastly, in the area of batteries, Saft formed a joint   venture in April 2019 with China™s Tianneng to expand  its international business in mobility and stationary   energy storage.
+PETROLEUM PRODUCTS Œ AVOID EXPENSIVE  OIL, REDUCE OUR EMISSIONS, AND PROMOTE BOTH SPARING OIL USE AND SUSTAINABLE  BIOFUELSOver the years, oil has demonstrated a number of qualities,   including high energy density, exceptional stability   (which makes it easier to ship) and affordable cost.
+However, the related CO 2 emissions are significant.
+At Total, we believe the right move is to save this energy  for specific uses, such as aviation and certain types  of transportation, and to avoid uses where oil can be  easily replaced, for example in power generation.
+With this in mind, we are anticipating ˚at or declining   oil demand and concentrating on low breakeven assets.
+We do not develop oil projects in the Arctic sea ice,   for example, and are no longer developing oil sands  projects in Canada.
+To sustainably reduce our emissions, we are taking   action against CO2.
+A dedicated task force bringing  together Total™s different skill sets was formed in 2019  and emissions will be systematically displayed  at the entrance to industrial facilities to further raise our teams™ awareness and buy-in.
+FOUR CLIMATE-ORIENTED STRATEGIC FOCUSES NATURAL GAS Expand our presence across   the entire natural gas chain, reduce  our methane emissions and make LNG more energy efficient.
+PETROLEUM PRODUCTSAvoid expensive oil, reduce  emissions at our facilities,  and promote both sparing oil  use and sustainable biofuels.CARBON NEUTRALITYDevelop businesses that will help achieve carbon neutrality through providing energy  efficiency services to our customers and  by investing in natural carbon sinks such as forests and wetlands, and in carbon  capture, utilization and storage (CCUS).
+LOW-CARBON ELECTRICITYExpand our operations in the non-regulated  portion of the value chain (i.e., excluding power transmission), from power generation  using renewables and natural gas to sales   to end customers and energy storage (batteries and hydrogen).
+08 Ł INTEGRATING CLIMATE INTO OUR STRATEGY We are also pursuing our efforts to sustainably improve  energy efficiency at our production facilities.
+In 2018,   we made significant advances in that area.
+In downstream   operations, we launched a five-year, USD 300-million  capital investment program to enhance energy efficiency  at our plants, while in the upstream we have made further  reductions in routine ˚aring (down 80% since 2010).
+Lastly, we have set a goal to cut greenhouse gas emissions   at our operated oil and gas facilities1 from 46 million tons  of carbon dioxide equivalent (CO2e) in 2015 to less  than 40 million tons in 2025; that includes new projects   that will be started up in the interim.
+The Chairman  and CEO™s compensation and that of our top executives  will be directly affected by this indicator.
+Our efforts to promote sustainable biofuels are also  helping to reduce the carbon impact of our petroleum  products.
+In late 2018, we acquired new interests in Brazil,   one of the world™s leading biofuel markets, through our  acquisition of Zema™s retail network (280 service stations,  with biofuels making up 30% of sales).
+We have also  begun production at our La Mède site, France™s first  world-class biorefinery, with a production capacity of  500,000 tons of hydrotreated vegetable oil (HVO) a year.
+This oil can be incorporated directly into biojet fuel,   where it plays a critical role in reducing aviation emissions.
+The International Air Transport Association has set a goal  of stabilizing its emissions by 2020 and halving them between 2005 and 2050.
+That milestone will remain  beyond reach without the extensive use of biofuels.
+CONTRIBUTING TO CARBON NEUTRALITY THROUGH ENERGY EFFICIENCY AND CARBON SINKSAchieving carbon neutrality in the second half of this century will require first and foremost that we curb growth  in energy consumption.
+In 2050, consumption levels will  need to match those of a hundred years earlier, despite  a population that is three to four times larger and a GDP  that is at least ten times higher.
+With our acquisition  of GreenFlex, an energy efficiency consultant, we can  advise our customers on ways they can reduce their  energy consumption and emissions.
+Moreover, in 2019, we established a dedicated division  for investing in natural carbon sinks (forests, mangroves,  etc.)
+with an annual budget of USD 100 million as from  2020 and an annual sustainable storage capacity target  of 5 million tons of carbon by 2030.
+We have expanded our efforts in the area of carbon  capture, utilization and storage (CCUS) by taking part in  several major projects, one in Norway (Northern Lights)  and the others in the U.K. (Clean Gas Project and Acorn).
+We are also intensifying our R&D investment through  partnerships with the National Carbon Capture Center in  the United States and French public research, innovation  and training center IFP Énergies Nouvelles (IFPEN).
+1.
+Scope 1 emissions (direct emissions) and Scope 2 emissions (indirect emissions  from purchased energy).
+Cameron LNG liquefaction terminal, Louisiana, U.S.A.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 09Development studies on a major upcoming project   in Dunkirk and a project to produce methanol from CO 2 and hydrogen in Germany (E-CO2MET) have also been  launched.
+Lastly, Total™s venture capital fund, renamed Total   Carbon Neutrality Ventures, has been fully refocused   on low-carbon projects and its investment volume   has been increased, with a projected portfolio of around  USD 400 million by 2023.SOLID RESULTS These initiatives are paying off and have allowed us   to significantly improve our climate-related indicators.
+Ł  Emissions from our operated oil and gas facilities  declined from 46 million tons of CO 2e in 2015 to  42 million tons in 2018, in line with our goal of bringing those emissions below 40 million tons by 2025 while continuing to grow our business.
+Ł  Our methane emissions are now among the lowest in  the industry (methane intensity below 0.25% in relation  to the commercial gas produced in 2018).
+Lastly, the carbon intensity of the products used by our  customers decreased by about 5% from 2015 to 2018.
+Here too, we are on track to meet our ambition of a 15%  reduction between 2015 and 2030.
+We are supporting   our customers in their efforts to decrease their carbon  footprint by offering an energy mix with diminishing  carbon intensity.
+WORKING TOGETHEROf course, we at Total can only do so much on our own.
+Changes in demand spurred by public policies and   consumer practices will play a decisive role in determining   the speed of the energy transition.
+With this in mind,   we are multiplying our efforts to forge partnerships   with the public sector and consumers alike.In our discussions with governments, we actively advocate   for carbon pricing, an essential step, particularly if the world   is to switch from coal to natural gas for power generation.
+By 2040, such a move could slash carbon emissions by  5 billion tons annually and bring global emissions nearly one third of the way to compliance with the International  Energy Agency™s 2°C scenario.
+But carbon must be priced   fairly, with appropriate mechanisms, since consumers  may lack the means to change their behavior and view  a carbon price as unfair.
+For this reason, we support  a proposal by the Climate Leadership Council (of which  Total is a founding member) to establish a carbon dividend,   which creates an incentive for consumers while redistributing   resources to those with the lowest incomes.
+Lastly, Total is a member of numerous industry associations.
+In 2019, we decided to review the main associations™  positions on climate change to confirm they coincide  with our own.
+The vast majority of these organizations  hold positions that are aligned with Total™s, but in four  cases we found points of concern or even diverging views.
+As a result, Total has chosen to withdraw from one of  those organizations and to closely monitor developments  at the other three while continuing to promote our own  views as a member.
+These actions, initiatives and commitments place us  among the top oil and gas companies in terms of business   readiness for a low-carbon transition, according to   a November 2018 study by CDP.
+Our clearly stated ambition is to become the responsible  energy major.
+To do that, we are integrating the climate  challenge into our strategy and our operations.
+This is not just an environmental challenge Š it impacts business  and strategy as well.
+There are risks ahead, obviously,  because climate change calls for a more diversified  business model, but it is also a fantastic source of  opportunity.
+As an energy provider, we are in the best  position to offer sustainable solutions that will ensure  our own prosperity and that of the global community   in the decades to come.
+Our transition must be dynamic and positive for our employees, our customers and  our partners.
+SunPower Total solar power plant (Chile).
+10 Ł INTEGRATING CLIMATE INTO OUR STRATEGY A Board of Directors  Committed   to Climate ActionWhat makes Total™s approach  to climate issues unique?
+Total is one of the first majors   to have developed an integrated vision of the emissions related to its  operations and products.
+This has  allowed it to formulate a consistent approach to integrating climate  challenges in its strategy.
+Total walks   the talk.
+It has developed an indicator   to measure the carbon intensity   of its products across their life cycle.
+This crucial tool makes it possible  to track changes in the mix of energy  products offered to customers,   with the ambition of lowering their emissions by 15% between 2015 and 2030.
+How is the Board of Directors  supporting Total in addressing  climate change?To start, by helping Total identify  climate challenges and by making sure that they are integrated into  its strategy.
+We had productive  discussions throughout 2018 on  reducing greenhouse gas emissions  from operated oil and gas facilities  (Scopes 1 and 2) and on supporting customers as they reduce emissions  and therefore on the carbon intensity  of the energy products they use  (Scopes 1, 2 and 3).
+The Board of Directors closely reviews   projects proposed by the Executive  Committee and makes sure they are  consistent with the Group™s strategy.
+For example, we supported the One R&D project, which brings together  Total™s research and development  resources, making it easier to focus  them on tomorrow™s low-carbon  technologies.What other major advances have  been made over the last few years?
+At its meeting on March 13, 2019,  the Board of Directors decided  to include a criterion concerning  greenhouse gas emissions from  operated oil and gas facilities (Scopes 1   and 2) in the calculation of variable compensation for Total™s Chairman  and senior executives.
+Another important move was  the presentation in February 2019  of macroeconomic scenarios in  the Total Energy Outlook.
+The two  scenarios Œ Momentum and Rupture  (see pages 12 and 13) Œ provide  a template that will help Total prepare   the future more effectively.
+Lastly, Total has shifted a portion  of its portfolio toward low-carbon  electricity generated from natural  gas and renewables.
+However, not all sectors will be  ready for electrification right away.
+In the short and medium terms, energy efficiency remains the best  solution for limiting greenhouse gas  emissions.
+Total is firmly committed  to promoting energy efficiency,  both at its own facilities and with consulting services for customers, for example through its GreenFlex  affiliate.What are the key points looking  forward?
+Firstly, Total needs to pursue   and step up cooperation with other players, notably public authorities  and consumers.
+Working together  is a prerequisite for accelerating  the energy transition, and that  means talking with stakeholders.
+In June, Patrick Pouyanné met with community and nonprofit  organization representatives who  had challenged Total so he could  present the Group™s initiatives   to address climate change.
+The customer relationship is another  important aspect, and we will have to develop marketing specific to  low-carbon products and services.
+Lastly, being a broad-based   energy player with an integrated  presence across its product lines   is a considerable advantage for Total.
+This allows it to benefit from  synergies among its businesses   and leverage diverse energy sources  instead of pitting them against  each other.
+MARIA VAN DER HOEVEN,  Member of the Board of Directors of Total 1 and member of the Audit CommitteeINTERVIEW WITH 1.
+Executive Director of the International Energy Agency from 2011 to 2015 and Vice Chair of the High-Level Panel of the European Decarbonisation Pathways Initiative   within the European Commission.
+CLIMATE GIVEN GREATER  WEIGHT IN THE CHAIRMAN AND CEO™S COMPENSATION The Board of Directors™ strong focus    Chairman and CEO™s compensation.
+Climate has been given greater  weight in compensation policy with    the Board has introduced a quantitative   criterion in the Chairman and   CEO™s annual variable compensation  linked to trends in greenhouse   gas emissions at operated oil   and gas facilities (Scopes 1 and 2)   representing up to 10% of his base    already increased the weight of   CSR performance1 notably through the integration    from 10% to 15% of base salary.
+1.
+The CSR performance criterion also takes into account Total's reputation in the area of  corporate social responsibility and its diversity  policy in all its aspects.Shaping  Tomorrow™s  EnergyEnergy is central to the challenges we face to keep the global average temperature rise below 2°C.
+What mechanisms can be put in place   and what conditions favor success?
+We are helping to effect this change   and are actively involved, both within our industry and in the broader   international community, in shaping tomorrow™s energy.
+12 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Greenhouse Gas Emissions  and Changes to the Energy Mix 1.
+UNEP Emissions Gap Report 2018 (November 2018), p. 6: https://wedocs.unep.org/bitstream/handle/20.500.11822/26879/EGR2018_ESEN.pdf?sequence=10 If we are to keep the global temperature rise below 2°C, energy consumption Œ which accounts for more  than 80% of global carbon emissions and about two-thirds of greenhouse gas (GHG) emissions Œ must be  addressed as a key factor in the balancing act.
+In 20171, global greenhouse gas emissions totaled some 53 billion tons of CO 2e, re˚ecting a 40% increase over the  past two decades.
+According to the Intergovernmental Panel on Climate Change (IPCC), in the absence of far-reaching  action, emissions will rise to around 80 billion tons of CO 2e in 2040.
+Yet various forecasts indicate that this figure must  be reduced to less than 40 billion tons in 2040 to prevent a temperature rise of 2°C or more from pre-industrial levels.
+Global Greenhouse Gas Emissions Related to Human Activity *Land use, land-use change, and forestry.
+Source: Global Carbon Budget 2018 and the Fifth IPCC Report.
+10206050403019771987200720171997196724 Gt CO2e in 196753 Gt CO2e in 2017Methane  and nitrous oxide CO2  from coal CO2  from oil CO2 from  natural gasCO2 from  LULUCF*CO2 from cement manufacturing and fiaring 22%3%10%14%24%27%CO278%Global GHG emissions (Gt CO2e/year)INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 13AN ENERGY MIX THAT IS UP TO THE TASK As we tried to define an energy mix that would meet the world™s energy needs while reducing emissions in line   with the 2°C scenario, we analyzed the scenarios prepared by the International Energy Agency (IEA) and developed  a long-term forecast of how energy demand is likely to change in our Total Energy Outlook 2040.
+Those projections  highlight critical challenges and identify possible options for shifting the energy mix.
+Under the IEA™s Sustainable Development Scenario (SDS)  and the Total Energy Outlook™s Rupture scenario,   the world™s primary energy demand mix will need to change  substantially between now and 2040 to keep the temperature  rise below 2°C.Given that the world™s population is expected to exceed  nine billion by 2040, we will need to make major strides  in energy efficiency for energy demand to stabilize at close  to current levels.
+Demand for electricity is expected to  double by 2040 as energy end uses such as manufacturing,  cooking, heating, air conditioning and transportation are electrified whenever possible.
+Oil, reserved primarily   for transportation and petrochemicals, is slated to decline  from 32% of the energy mix today to just over 20% in 2040.
+The share of renewables would rise sharply, from 14% to  more than 30%.
+Fossil fuels, meanwhile, are not all equal:  gas emits around half as much CO 2e as coal when used  for power generation.
+Consequently, coal™s share of the mix  is expected to fall by two thirds between now and 2040,   to less than 10%, while natural gas™s should continue   to rise, to around 25%, under both scenarios.
+TOTAL ENERGY OUTLOOK   SCENARIO ANALYSIS In accordance with the Task Force on   Climate-related Financial Disclosure (TCFD)   analysis in 2019.
+In addition to the Rupture  scenario based on current trends: reliance on   but coupled with an upswing in certain advanced vehicles and a 2.2% annual reduction in the global   economy™s energy intensity (versus around  1.6% a year since 2000).
+Unlike in the Rupture    would shrink by about 5% and renewables would  account for only 20%.
+The emissions associated with the Momentum scenario are well above   the 2°C trajectory.
+change must make much more ambitious   and political break with the past that includes   a wholesale switch to low-carbon energies.Global Primary Energy DemandSource: IEA WEO 2018; Total Energy Outlook.
+050100250150200350300400Mboe/dCoal RenewablesNuclear power Oil Gas2017eIEA SDSTEO Rupture TEO MomentumIEA NPS2017204022%25%25%26%22%22%5%5%20%20%23%12%9%31%28%21%8%8%34%32%27%5%14%28%27%14 Ł INTEGRATING CLIMATE INTO OUR STRATEGY From a scienti˚c standpoint,   where is climate change heading?
+John M. Reilly: Global warming is very clearly caused  by human activity.
+Seventy percent of greenhouse   gases come from fossil fuels Š coal, oil and gas.
+The other major sources of atmospheric carbon dioxide   are deforestation, land degradation and cement  manufacturing.
+Then you have the other greenhouse gases:   methane and nitrous oxide, mainly from agriculture,   and ˚uorocarbons.
+There is already nearly enough greenhouse gas in   the atmosphere to bring us to a 1.5°C rise in temperature,  and staying below the only slightly higher target set in   the Paris Agreement is an extreme challenge.
+Things are  at a critical stage; we™re already seeing a host of dramatic  events linked to climate change, from droughts and fires   to hurricanes and ˚ooding.
+Responding to  Urgent Climate Issues A CONVERSATION ABOUT What assessment can we make of the climate issues we now face?
+How can we tackle the challenges  on the horizon?
+What role can Total play?
+Helle Kristoffersen, President, Strategy & Innovation,  Total, talks with John M. Reilly, Co-Director of   the Massachusetts Institute of Technology (MIT)   Joint Program on the Science and Policy   of Global Change, in which Total is a partner.
+HELLE KRISTOFFERSEN, TOTAL  JOHN M. REILLY, MIT INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 15Helle Kristoffersen:  Here at Total,  we don™t claim to be climate experts.
+But we listen to climate scientists, and we believe we have a role to  play in combating climate change and its effects.
+Our business is  energy.
+It™s a business we know well,  because we conduct it in more than  130 countries.
+Plus, we can marshal substantial human and financial resources to carry out our projects,  including in the areas of R&D,  technology and innovation.John M. Reilly: At MIT, too, we™re  mapping out scenarios that aren™t  just limited to energy and climate Š  we also incorporate issues related  to water and food, among others.
+All of our scenarios reach the same  conclusion as the International  Energy Agency™s: if we stay on the path   we are on, and even if we achieve  the short-term pledges of the Paris Agreement, the world will remain  dependent on fossil fuels and emissions will continue to rise, albeit more  slowly.
+But to curb global warming,  we need to cut emissions sharply.
+What actions can be taken  to reduce future global warming?
+John M. Reilly: To keep the average  global temperature rise below 2°C,  then all options need to be on  the table: wind and solar, nuclear,  carbon storage, bioenergy and  reforestation.
+We also need to target  methane from rice and livestock,   and find ways to produce food   with less nitrous oxide emissions.
+Most economists recommend  applying carbon pricing broadly   to achieve the energy transition   we need.
+We™ll also need an array  of solutions from R&D to help us   eliminate greenhouse gases  throughout the economy   at the lowest possible cost.What role can businesses play  alongside the public authorities  and consumers?Helle Kristoffersen:  Businesses are  innovating, investing and bringing new products and services to market,   meaning they are playing a key role.
+But they can™t do it alone.
+The practical   steps we take to manage the energy  transition, and how fast it happens,  both depend on many other interested   parties as well.
+Public authorities and consumers have an important role, too.
+By authorities, I don™t just  mean at the central level, but also local, especially municipalities,  which are setting major forces   in motion for the long term.Total is taking tangible steps with all  those stakeholders.
+We™re working  alongside our industry peers, through organizations like OGCI and,  more broadly, as part of the   United Nations Global Compact.The issue of demand is a tricky one and only partly within our control,  since it™s dictated by consumer habits   and decisions.
+After all, they buy what   they want to.
+But we™re supporting  our customers as they move toward   low-carbon, more efficient, economical   forms of consumption.
+For example, our affiliate GreenFlex offers  solutions to help businesses reduce  and optimize their energy use.
+John M. Reilly: As a rule, it™s hard   to get people to change their behavior.
+In a low-carbon world, most consumers   would just adopt the latest green  technology and infrastructure.
+To all appearances they would still  be buying the same fuel and using the same outlets, but with, behind the scenes, energy companies that  would have learned how to supply  carbon emissions-free fuel and  electricity at a competitive price  in relation to fossil fuels.
+Absent that  progress, a strong price signal will be   needed to get people to switch  to new technologies or low-carbon  solutions.
+To be sure, some  consumers who want to protect the  planet will pay for green technologies  or products, but probably not  enough to reduce emissions as  much as is required.
+That™s why it™s  important that we set a high carbon price worldwide.
+What role will energy companies  play in particular?John M. Reilly: The world will still be hungry for energy.
+Millions of  people in many regions lack access  to modern energy.
+So energy  companies will continue to play an important role.
+We™ll just have to wait  and see whether large fossil energy  companies will transform their business model or get left behind.
+Helle Kristoffersen:  We™re constantly   working on the possible changes in the global energy mix and on our  own position with regard to those  changes.
+One of the limitations of the International Energy Agency™s  Sustainable Development Scenario (SDS) is that it assumes there will  be no growth in energy demand  between 2015 and 2040.
+For Total, the challenge is to control  greenhouse gas emissions not by  limiting growth, but by promoting  economic development and energy  access for those who don™t have it.
+That™s the meaning behind our  ambition to become the responsible  energy major, providing energy that  is more affordable, more reliable   and cleaner to as many people  as possible.16 Ł INTEGRATING CLIMATE INTO OUR STRATEGY objectives in the Paris Agreement,  natural gas can only serve as a transitional energy source, for the  next 20 years at most.
+At that point, you™ll have to start shifting to less carbon-intensive energies.
+So, these  long-term investments in natural gas infrastructure could lose their value  by 2040.
+But Total™s commitment to  reforestation is an excellent policy,  and advocating a broad-based  carbon price is critical to its strategy,  since that will help the company expand in other forms of energy   that offer alternatives to oil and gas.
+Helle Kristoffersen:  We™re much  more optimistic about natural gas  than you are.
+Gas can be used  for power generation, heating, cooking and transportation and as a feedstock in manufacturing.
+The biggest challenge is to make the switch from coal in power  generation.
+We all know that coal  produces more greenhouse gases  than any other fossil fuel.
+In the United States, thanks to the boom in shale gas, coal-fired power  generation is on the decline,  and emissions are falling too.
+Adopting a carbon tax is one way to accelerate that process, as we™ve  seen in the United Kingdom.
+This creates opportunities to develop  carbon neutrality businesses,  an area in which we are susbtantially  increasing our spending.
+Not many people know it, but a large  portion of renewable energy is lost  when it can't be fed into grids.
+That makes managing its variable and seasonal nature a key issue.
+Gas can be a good partner for renewable energies from this standpoint.
+We have already invested in five  combined-cycle gas turbine power plants in Europe.
+Plus, we™re actively  What actions is Total taking?
+Helle Kristoffersen:  Total integrates  the climate challenge into our four strategic focuses.
+First, we are  expanding our operations in natural gas, the fossil energy with the  lowest emissions.
+Second, we are  growing our presence in low-carbon  electricity.
+Third, for petroleum  products, we are gradually  withdrawing from certain types   of oil, improving energy efficiency  at our facilities and promoting  sustainable biofuels.
+And fourth, we are developing businesses that  contribute to carbon neutrality.
+Speaking of carbon neutrality,   in 2019 we decided to set up  a business unit called Nature-Based   Solutions that will be wholly focused on natural carbon sinks, with  a sizable budget of $100 million  a year.
+This business unit will add   to the work done over many years on carbon capture, utilization   and storage (CCUS).
+There™s no miracle solution,   but rather a basket of solutions.
+And it™s not just the purview   of experts at headquarters Š it™s  everyone™s business here at Total.
+Compliance with our emissions reductions targets is one of the  factors we use to calculate executive variable compensation.
+Our goal  is to reduce our Scope 1 and 2  greenhouse gas emissions from   46 million tons in 2015 to less than 40 million tons of carbon dioxide equivalent by 2025 across our  operated oil and gas activities.
+John M. Reilly: Total is covering all  the bases Š it™s pledged to reduce   its direct emissions, it™s focusing   on energy sources and fuels that  emit less carbon and it™s investing  in R&D in a variety of areas.
+I don™t  know if that™s enough.
+Total sees  natural gas as a key energy source,  particularly as a replacement for  coal in power generation.
+However,  to meet the very tough long-term ﬁWe™re supporting our customers as they move   toward low-carbon consumption or more   eficient, autonomous forms of consumption.
+ﬂHELLE KRISTOFFERSENINTEGRATING CLIMATE INTO OUR STRATEGY  Ł 17developing new applications  to replace petroleum products   with natural gas in trucks, shipping  and other areas.
+Let™s not forget that under the IEA™s  Sustainable Development Scenario, the world will still be consuming large volumes of hydrocarbons in  2040, and natural gas in particular.
+There are many ways to ﬁmake gas  greener,ﬂ for example by extending  the life of existing infrastructure   and using hydrogen and biogas.
+So there™s reason for optimism, then?
+John M. Reilly: Frankly, there are  a lot of reasons to be pessimistic.
+Many countries may not achieve their near-term Paris commitments,  and there™s a big disconnect between   the level of action happening and  what we need to do to stabilize greenhouse gases in the atmosphere.
+We need to reduce global emissions  sharply, by about 80% between now  and 2050, with many calling for zero  net emissions by then.
+That is a very short timeframe to transform  our energy system completely.
+The one optimistic note is the growing   climate activism among young people.
+My generation, which accelerated those emissions, will at least have pointed toward the pathways needed.
+But the hard work is actually moving  the world down that path.
+Helle Kristoffersen:  I agree and   would even go further.
+What I find  encouraging is that more and more   people are becoming active at every  level of society.
+That™s encouraging,  because this affects all of us as  citizens and inhabitants of the same planet.
+We can all take positive steps.
+The fight against global warming isn™t just an issue for the public  authorities or politicians.
+Total™s  commitment is part of this broader  movement of fighting for our climate and reducing our emissions while  contributing to economic and social development, which requires access  to energy.
+Another reason to be optimistic  is the massive investment in sustainability R&D and innovation that™s being deployed worldwide.
+Total allocates more than a third of  its yearly R&D budget to low-carbon technology.
+I™m confident we™ll get  some welcome surprises on that front.
+Too often, we tend to view  the future in linear terms; in fact,   the future invariably has breakthroughs   in store for us, offering technological  progress that Š we hope Š will help  us overcome the challenges   we currently face.
+ﬁA strong price signal will be needed   to get people to switch to low-carbon solutions.
+ﬂJOHN M. REILLY 18 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Total has teamed up with a dozen other oil and gas companies within the Oil and Gas Climate Initiative (OGCI),  a cooperative effort to identify, support and accelerate the deployment of solutions for reducing greenhouse  gas emissions.
+Rooted in the expertise of OGCI members, those solutions promise bene˚ts beyond the energy  industry.
+OGCI: Oil and Gas Producers  Pool Their Efforts The OGCI was founded in 2014 by CEOs from major  oil and gas firms, including Total, with an active interest  in climate issues.
+Its goal is to support a collective commitment to climate, one of the first major expressions  of which was on view at the COP21 climate conference   in Paris.
+The OGCI maintains close ties with some  15 NGOs.
+Since its members include several national oil companies, the OCGI can act as a useful intermediary between the United Nations and numerous national  governments.
+SPEARHEADING INDUSTRY INITIATIVES  The OGCI aims to promote industry best practices   in reporting and to encourage oil and gas companies   to adopt climate commitments, for example to reduce  methane emissions.
+Thanks to its expertise and financial resources, it can fund research for breakthrough  technological solutions in a wide array of climate-related  fields.
+In 2019, the OGCI therefore launched a campaign  to foster the emergence of a carbon capture and storage  industry that can meet the needs of numerous sectors  beyond oil and gas.
+Meeting of OGCI CEOs in September 2019.INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 19FOSTERING THE EMERGENCE  OF A CCUS INDUSTRY Since 2017, through its OGCI Climate Investments fund,  the OGCI has been supporting the Clean Gas Project 1  in the U.K., one of the first major commercial projects for  industrial CCUS.
+The fund is also investing in start-ups such as U.K.-based Econic Technologies 2 and  the Canadian firm Inventys3.
+In May 2019, it pledged  a commitment to Wabash Valley Resources, the largest  CCUS initiative in the United States.
+This project aims   to capture 1.5 million to 1.75 million tons of CO 2 annually  from a co-located ammonia production plant.
+In 2019,   the OGCI announced that it would lay out a roadmap  for the development of a commercially viable, safe and  environmentally responsible carbon capture, utilization  and storage (CCUS) industry.
+EXPANDING  THE INDUSTRY™S LEVERAGE   This oil industry collaboration is growing stronger   each year.
+With the arrival of Chevron, ExxonMobil   and Occidental Petroleum in 2018, the OGCI now   has 13 members4, accounting for 30% of operated oil and gas production worldwide and more than 20% of  primary energy consumed.
+Its scope of action is global.
+The OGCI Climate Investment fund (see sidebar),  to which the organization™s members contribute,  now boasts an endowment in excess of USD 1 billion.
+In 2018, the OGCI™s members confirmed a preliminary  collective goal of reducing methane emissions to below  0.25%5 by 2025 from 0.32% in 2017.
+They hope   to achieve even further reductions if possible,   with an ambition of 0.20%.SHARING UNIFORM REPORTING ON EMISSIONS The OGCI has adopted a common methodology  for reporting emissions.
+An independent third party   (Ernst & Young) ensures that this anonymized aggregate  data is consistent.
+New indicators for methane intensity and carbon intensity have been defined.
+By adopting uniform practices, OGCI member companies can set mutual targets and improve their individual and collective  performance.
+1.
+The first gas-fired power plant to offer carbon capture, transportation by pipeline   and storage infrastructure.
+2.
+Econic Technologies incorporates CO 2 as feedstock in the manufacture of polyols,  which are used in polyurethanes.
+3.
+A pilot plant demonstration program that hopes to halve the cost of carbon capture.
+4.
+BP, Chevron, CNPC, Eni, Equinor, ExxonMobil, Occidental Petroleum, Pemex,  Petrobras, Repsol, Saudi Aramco, Shell and Total.
+5.
+The rate is calculated in proportion to the quantity of gas sold by each OGCI member.
+6.
+Polyols are used to manufacture polyurethane plastic, which has multiple applications.
+7.  http://info.oilandgasclimateinitiative.com/blog/methodological-note-for-ogci- methane-intensity-target-and-ambition 13Number of oil and gas companies belonging  to the OGCI as   of September 2018.
+USD 1 billion+Endowment of the OGCI Climate  Investments fund launched in 2016.
+0.25% End-2025 methane intensity target   for OGCI member firms™ upstream  operated oil and gas activities  7INVESTMENTS IN 2018  BY OGCI CLIMATE INVESTMENTS    Ł  Econic: Incorporates CO2 as feedstock  in the manufacture of polyols 6.  that practically eliminates fugitive methane emissions.
+monitoring data and services for facilities anywhere  in the world.Ł  Kairos Aerospace: Actionable data on major sources  of methane emissions from aerial surveys.
+20 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Alongside our commitment to the Oil and Gas Climate Initiative, Total has forged ties with international  organizations, business consortia, foundations and other partners to take action in multiple ways.
+Here are a few examples.
+THE CLIMATE LEADERSHIP   COUNCIL: FOR THE CREATION   OF A CARBON TAX Who are they?
+Founded in 2017 in the United States, the Climate Leadership Council (CLC) brings together multinational firms from a variety of business sectors,  including energy companies like BP, ExxonMobil, Shell  and Total (a founding member), as well as other global  players such as Allianz, AT&T and PepsiCo.
+A number  of non-governmental organizations (NGOs), such as the  World Wildlife Fund and the World Resources Institute,  are also CLC members.
+Why?
+The goal of the CLC is to establish a carbon tax  on fossil fuels.
+The tax would initially be set at USD 40 per ton and rise over time.
+The entire revenue generated   by the tax would be evenly redistributed to U.S. consumers   Multiple PartnershipsTHE ALLIANCE TO END PLASTIC WASTE:  ELIMINATING PLASTIC POLLUTION  includes companies from across the plastics and  consumer goods value chain.
+Total was a founding  member.
+The goal of the initiative is to offer solutions    recycling of plastics as part of a circular economy.
+SUSTAINABLE DEVELOPMENT GOALS:   FOR GLOBAL COMMUNITY ENGAGEMENTWhat are they?
+In 2015, the United Nations defined and adopted 17 Sustainable Development Goals (SDGs) for its member states.
+The U.N. called on the business community to mount a collective response to these  critical challenges.
+We pledged our commitment   to fulfilling the SDGs in 2016.Why?
+All of the SDGs have some bearing on our operations.
+That said, we have identified those for which we can make a more significant contribution, such as SDG 13   on climate action, SDG 7 on affordable and clean energy  and SDG 8 on decent working conditions around   the world.
+We are using the SDGs as an opportunity  to measure our contribution to society more effectively.
+We manage our operations and assess our performance  based on the three touchstones of sustainable growth:  financial results, value creation for all stakeholders  and preservation of ecosystems.
+We also rely on   an ongoing process of identifying risks.
+BREAKTHROUGH ENERGY COALITION: FOR FASTER  SOLUTIONSWho are they?
+In 2015, Bill Gates founded the Breakthrough Energy Coalition (BEC), a group of investors   with the ability to provide long-term backing to new  companies developing cutting-edge energy solutions.
+Why?
+The goal of the BEC is to fund technologies that emit fewer greenhouse gases and to promote low-carbon  energy production.
+The idea is to leverage funding from  the BEC to move more quickly from the research phase  to tangible applications.
+Total joined the BEC in 2017,  offering our expertise in energy and sustainable solutions.
+The BEC has a USD 1 billion investment fund.
+in the form of dividends.
+The amount of the dividend would increase with the tax rate, providing an incentive  for both businesses and consumers to choose less carbon-intensive forms of energy.
+Likewise, by targeting  imports, the proposal would encourage America™s trade  partners to set up carbon pricing schemes of their own.
+The mechanism is inherently redistributive, from the  wealthiest (high carbon consumers) to the poorest   (those who consume the least).INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 21The objectives for reducing greenhouse gas emissions will not be met unless everyone gets involved:   the public authorities, businesses and consumers.
+For our part, at Total we are sharing our technological expertise,   creating bridges and catalyzing solutions with them.
+The Energy Transition:   Mobilizing Every StakeholderStakeholdersPublic Authorities Ł Regulatory environment Ł International coordination Ł   Tax policy (social equity,   border adjustment, etc.)
+ConsumersBusinessesŁ Energy e˚ciency Ł Innovation, R&D Ł  Development of low-carbon  products Ł Carbon sequestration ˛ Sustainable lifestyle ˛ Energy e˚ciency ˛ Responsible consumption 22 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Carbon pricing is a major tool for reducing the carbon intensity of power generation and promoting  technologies that emit less carbon.
+For more than a decade, Total has been calling for the adoption   of a global price on carbon and applying an internal carbon price when evaluating its own projects.
+Carbon pricing, in which the price of energy re˚ects  its carbon content, raises the cost of the most carbon-intensive energy sources.
+Putting a price on  carbon provides an incentive for all stakeholders to  move more quickly from coal to gas and renewable  energies for power generation.
+Over time, it also helps  to steer investment toward research into low-carbon  technologies and carbon capture and storage.
+Carbon tax and carbon trading projects are emerging  and taking shape around the world, with several  proposals moving forward in 2018.
+Canada, for example,   has instituted a carbon tax of CAD 20 per ton that  will gradually increase to CAD 50 per ton by 2022.
+Six other countries, including China and Mexico,  are adopting some form of pricing mechanism,   while the European Union has reformed its   Emissions Trading System (ETS) in a bid to raise   the price of carbon (see opposite).
+In all, according   to the Carbon Pricing Leadership Coalition (CPLC),  46 national and 28 subnational jurisdictions  have adopted carbon pricing1.
+TOWARD A BALANCED   INTERNATIONAL MECHANISM Since 2014, the United Nations Global Compact has encouraged companies to voice public support for carbon pricing by promoting regulatory mechanisms  appropriate to the local situation.
+In May 2015, Total  and five other global oil and gas companies Š BG, BP, Eni, Equinor, and Shell Š addressed a joint letter   to the United Nations Framework Convention  on Climate Change (UNFCCC) Executive Secretary   and the President of the COP21, calling for   the introduction of carbon pricing systems.
+At Total, we advocate a balanced, phased-in international   agreement that does not distort industrial or regional  markets.
+We encourage the adoption of a global  price per ton of carbon emitted that also ensures fair  treatment for sectors subject to carbon leakage.
+On the Front Lines   on Carbon Pricing1.
+ﬁState and Trends of Carbon Pricing 2019,ﬂ World Bank, Washington, D.C., June 2019.  https://openknowledge.worldbank.org/bitstream/handle/10986/31755/211435KeyFigures.pdf?sequence=5&isAllowed=y AN INTERNAL CARBON PRICE   we include: Ł  An internal carbon price of USD 30 to USD 40   Ł  Or the current CO 2 price if it is higher in the country where the investment will be made.
+for combating climate change that may have  an impact on our projects.
+SPOTLIGHTINTEGRATING CLIMATE INTO OUR STRATEGY  Ł 232008 We begin factoring  a carbon price of  •25 per ton into our  investment decisions.
+2015 Paying for Carbon: Total and five other  leading oil and gas companies call   on the international community to  implement carbon pricing mechanisms.
+2016 We help deploy the World Bank™s Carbon  Pricing Leadership Coalition.
+We review our internal carbon price, setting  it at between USD 30 and USD 40 per ton,  depending on the price of oil.
+2017 We become   a founding member  of the Climate  Leadership Council  in the United States.
+SETTING AN ACCEPTABLE PRICE   We believe that acceptability is a critical component of a carbon pricing system.
+As a member of the Climate Leadership Council since 2017, we support the creation   of a carbon dividend, in which tax collected on fossil fuel consumption is equitably  redistributed to consumers.
+That idea is gaining ground: it is currently included  in several policy proposals in the United States 1 and has been incorporated into Canada™s carbon pricing systems 2.
+The French government™s Economic Advisory  Council3 has examined the idea as well.
+1.    ﬁBaker proposalﬂ and ﬁDeutch proposal,ﬂ described in ﬁA Comparison of the Bipartisan Energy Innovation and Carbon Dividend Act with Other Carbon Tax Proposals,ﬂ   Working Paper, 2018, Center on Global Energy Policy https://energypolicy.columbia.edu/sites/default/files/pictures/DeutchCarbonTax-CGEP_Commentary_NEW.pdf.
+2.  https://www.ourwindsor.ca/news-story/9392640-carbon-tax-rebate-claimed-by-97-per-cent-of-eligible-families-so-far-this-year-canada-revenue-agency-says/ 3.  http://www.cae-eco.fr/IMG/pdf/cae-note050v2.pdf 4.
+State and Trends of Carbon Pricing 2019,ﬂ World Bank, Washington, D.C., June 2019.  https://openknowledge.worldbank.org/bitstream/handle/10986/31755/211435KeyFigures.pdf?sequence=5&isAllowed=y 20% GHG emissions covered   by carbon pricing   (ETS or taxes) 4 by 2020 USD  44 billionRevenues for jurisdictions   using carbon pricing in 2018,  up 33% from the previous year  4THE EU-ETS: EFFECTIVE REFORMS reforms to its Emissions Trading System (ETS).
+The announcement in 2018 that quotas would be reduced via the Market    24 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Where do you stand on the  implementation of an international  carbon market or various international markets?
+We need global markets to pull  businesses around the world into  the global effort to tackle climate  change and to ensure fair competition   through a common carbon price.
+We currently support regional markets,   such as the European Union  Emissions Trading System (EU ETS)  or the Western Climate Initiative, Inc.   in the United States, but we would like to see them evolve toward   an international market.
+That is  the only viable path to achieve the massive level of emission reductions  needed without disrupting the global economy.
+What is required to ensure   the success of these markets?The first metric will be whether emissions are reduced to levels  commensurate with a better than 2°C goal.
+The caps need to be effective to achieve tighter and  tighter reductions over time.
+The second metric is the pricing signal sent to businesses as they plan their future investments.
+Because they will be in a position  to anticipate carbon prices in  the market or through a tax system,   they will have the information  they need to adopt effective plans.
+Achieving our targets will also  require greater use of other kinds  of tradeable units not currently  available, such as natural climate solutions, for instance sequestration in forests and soil or carbon capture  and storage underground.
+What does a business association like IETA do in the ˚ght against  climate change?We™re deeply involved in advocacy  in carbon markets in jurisdictions Š countries, federal states, cities and others Š that are either already  using them or are interested in setting   up new systems.
+We are also bringing  together experts from Total, BP, Shell  and other industrial companies that are members of our organization  to share insights and build business  relationships.
+When we go to governments with  our proposals and our suggested  improvements for their carbon  pricing systems, they know IETA  speaks from experience, because   we are a coalition of businesses   that are active in carbon markets or  tax-and-offset systems, for example.
+We help those governments  understand what market dynamics they will create with their policy  choices.How do you work with the private sector, including companies like  Total, to deliver a successful  outcome?IETA is focused on getting a policy  infrastructure in place at national,  regional, and international levels so  that companies like Total understand  what the rules are going to be to  inform their investment strategies.We are also involved in a series of  carbon forums that allow businesses to meet each other, share their  success stories and showcase some of the model initiatives they have undertaken on their own journey   to address climate change.
+For example, Total is stepping  forward on things like natural   climate solutions Š CCS, biofuels and sustainable aviation fuels, to name just a few Š and can also offer renewable energy solutions.
+In other words, it can use its   know-how and financial power to help governments achieve their  goals in a way that meets the Paris Agreement targets, but also enables  economic growth.
+DIRK FORRISTER,  CEO and President, IETA  FOUR QUESTIONS FORThe nonpro˚t International  Emissions Trading Association  (IETA) serves businesses engaged  in market solutions to tackle climate change.
+Its mission  is to enable business to engage in climate action consistent with the objectives of the United Nations Framework Convention on Climate Change (UNFCCC) and to establish effective market-based  trading systems for greenhouse  gas emissions that are fair,  open, ef˚cient, accountable and consistent across national  boundaries.
+Our  InitiativesOur initiatives are guided by four strategic focuses: growing our natural gas  business while reducing methane emissions, developing businesses in low-carbon  electricity, curbing emissions at our facilities and promoting sustainable biofuels,  and contributing to carbon neutrality by investing in carbon sinks and energy ef˚ciency.
+In the following pages, we take a look at where we stand in addressing  these focuses and achieving our objectives.FOUR CLIMA  TE-ORIENTED LOW-CARBON ELECTRICITYExpand our operations   in the non-regulated portion   of the value chain (i.e., excluding  power transmission), from power  generation using renewables   and natural gas to sales to end  customers and energy storage  (batteries and hydrogen).
+NATURAL GAS Expand our presence across   the entire natural gas chain,   reduce our methane emissions and  make LNG more energy efficient.
+STRATEGIC FOCUSES INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 27FOUR CLIMA  TE-ORIENTED PETROLEUM PRODUCTSAvoid expensive oil, reduce  emissions at our facilities,   and promote both sparing   oil use and sustainable biofuels.CARBON NEUTRALITYDevelop businesses that will help  achieve carbon neutrality through  providing energy efficiency services  to our customers and by investing in  natural carbon sinks such as forests  and wetlands, and in carbon capture,  utilization and storage (CCUS).STRATEGIC FOCUSES 28 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Natural gas is a cornerstone of our energy mix and our strategy.
+As the fossil fuel with the least carbon emissions,   it offers an excellent alternative to coal for power generation and can serve as a fiexible, inexpensive partner   to intermittent, seasonal renewable energies.
+Natural Gas,A Key Energy Source According to the IEA™s Sustainable Development  Scenario, gas consumption will soar between now and 2040, when it is expected to meet one-quarter of global energy demand.
+In emerging markets, which still rely  heavily on coal and where most of that growth will occur,  natural gas could be used for heating, transportation and power generation.
+In this last area, its ˚exibility  makes gas a vital partner for renewable energy sources,  including solar and wind, which are intermittent   and seasonal by nature.
+SUSTAINED INVESTMENT  UPSTREAM In 2018, natural gas accounted for 50% of our hydrocarbon   production, compared to around 35% in 2005.
+Our ambition is to increase the share of gas to 60% by 2035.
+To do that, we are investing heavily in exploration projects  with controlled costs, including Yamal LNG in Russia,   Ichthys LNG in Australia and our 2019 acquisition of Anadarko™s gas assets in Africa 1.
+With regard to liquefied  natural gas (LNG), we are investing in every major market  and production region.
+In a market growing by 5%  annually, we are now the world™s second-largest producer  of LNG, thanks to our acquisition of Engie™s LNG assets  and the start-up of production at our current projects.
+1.
+1.2 billion barrels of proved and probable reserves, of which 70% is gas, as well as  2 billion barrels of oil equivalent of long-term natural gas resources in Mozambique.
+Yamal LNG plant in Russia.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 29RAPID DEPLOYMENT DOWNSTREAM We also continue to invest downstream in the gas value  chain.
+We™re contributing to several initiatives that involve  ˚oating storage and regasification units.
+Those facilities,  known as FSRUs, provide additional countries with fast  and ˚exible access to natural gas without the need to spend heavily on infrastructure.
+We are also committed to  promoting natural gas fuel for trucks and transcontinental  container ships (LNG bunker fuel).
+Buoyed by strong  organic growth and strategic acquisitions (combined-cycle   gas power plants, Direct Energie, etc.
+), we are expanding  our production and distribution of low-carbon electricity  and gas to the end customer.
+We have also signed   a partnership agreement with Adani, India™s largest energy   and gas infrastructure conglomerate, with the goal   of developing the country™s natural gas market.
+COMBINED-CYCLE GAS-FIRED POWER PLANTS,   AN EFFECTIVE PRODUCTION RESOURCEStudies have shown that, in terms of carbon emissions, natural gas is cleaner than coal for power generation1.
+Life cycle assessments conducted across the entire   chain established that natural gas produces half   the greenhouse gas emissions of coal on average.
+Replacing coal with natural gas in power plants would  cut global carbon emissions by 5 billion tons per year,   or around 10%.
+Using natural gas for power generation offers an additional   advantage over coal in that it gives power plants greater  operating ˚exibility.
+Gas-fired plants have a much faster  restart time and can build up to full capacity twice as fast  as their coal-fired counterparts.
+In 2018, we significantly  boosted our gas-fired power generation capacity with   the acquisition of four combined-cycle gas power plants2.
+Those plants, which already provide 1.6 GW of capacity,  are expected to virtually double in number by 2020   with the acquisition of two additional power plants3 and the construction of a plant in Landivisiau, France.
+Together, these moves will lift our gas-fired power  generation capacity to 2.8 GW.
+A RESPONSIBLE MAJOR PLAYER Providing the energy the world needs for the energy  transition is an opportunity, but also a responsibility,   for Total, a major energy player.
+We are committed   to reducing methane emissions from natural gas  production and distribution across our operated scope 4.
+We are also pursuing that goal as a member of the OGCI,  which aims to identify, fund and deploy solutions to  reduce greenhouse gas emissions (see pages 20-21).
+1.  ﬁLife Cycle Assessment of Greenhouse Gas Emissions Associated with Natural Gas  and Coal in Different Geographical Contexts,ﬂ International Reference Centre   for the Life Cycle of Products, Processes and Services, October 2016,   and ﬁReview of Life Cycle Analysis of Gas and Coal Supply and Power Generation from GHG and Air Quality Perspective,ﬂ Imperial College London, 2017.
+2.
+Two through our acquisition of Direct Energie and two other plants   (in Toul and Pont-sur-Sambre, France) purchased from the U.S. investment firm KKR.
+3.
+From Germany™s Uniper, announced in late 2018.
+4.
+In 2018, Total™s methane emissions were less than 0.25% of the commercial   gas produced.
+5.  ﬁReview of Life Cycle Analysis of Gas and Coal Supply and Power Generation  from GHG and Air Quality Perspective,ﬂ Imperial College London, 2017.
+6.  ﬁMain Technical Principles of OCGT and CCGT,ﬂ GRP, February 2019.
+LIQUEFACTION FOR EASIER   GAS TRANSMISSION  which in the past was limited by the need for pipelines.
+to regions that lie far from production hubs.
+services for our customers.500  kg CO 2e/MWh   Median greenhouse gas   emissions across the gas value  chain (compared to about   1,000 kg CO 2e/MWh for coal) 5320  kg CO 2e/MWh  Emissions from the highest- e˚ciency combined-cycle   gas turbine (CCGT) plants,  versus 500 kg CO 2e/MWh  for recent open-cycle gas  turbine (OCGT) plants,   550 kg CO 2e/MWh for OCGT  plants more than 10 years   old and 800 kg CO 2e/MWh  for a modern supercritical   coal-fired power plant 6TOWARD GREENER GAS The growth of natural gas will see a constantly    An extensive infrastructure network is a considerable  asset in this area.
+Maintaining that infrastructure   right to the end customer is therefore critical.
+30 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Whether operational or fugitive, methane emissions play a role in global warming.
+With natural gas operations  spanning production to distribution, Total has reduced those emissions by more than 25% since 2010.
+We are also involved within the industry and at the global level in efforts to learn more about methane emissions   and promote best practices in the gas value chain.
+Controlling  Methane EmissionsMethane is a powerful greenhouse gas.
+According to   the fourth IPCC report, its global warming potential (GWP)   is 25 times greater than that of carbon dioxide over   100 years.
+Methane emissions are responsible for   one-quarter of our current warming 2.
+Rapid reductions  in methane emissions are vital to slow the warming  process and ensure that gas can continue to play   a key role in combating climate change.
+A PRIORITY FOR TOTAL Over the past three decades, we have been taking steps  to reduce and account for our methane emissions in  complete transparency, using a detailed methodology 2 in which Total is classified as an expert according to   the United Nations-supported Principles for Responsible Investment3.Our performance in reducing methane emissions   is among the industry™s best.
+As part of our inspection  and maintenance programs, we identify and analyze  leaks, make repairs and document our follow-up reviews.
+We have substantially reduced ˚aring at our facilities   and are limiting sources of process-related venting.
+As a result, we succeeded in reducing our methane  emissions in 2018 to less than 0.25% of the commercial  gas we produce.
+We intend to continue that trend   by sustainably bringing emissions below the 0.2% level by 2025.AN INDUSTRY-WIDE DRIVE We are involved in international partnerships and industry  initiatives to improve and widely disseminate knowledge  about methane emissions and methods to detect, measure and reduce those emissions.
+As a member of the Oil and Gas Climate Initiative,  which has made reducing methane emissions a priority,  we provide technical and financial support to international  research such as the Oil and Gas Methane Science  Studies jointly funded by UN Environment, the European  Commission and the Environmental Defense Fund.
+This research will allow us to focus investments where   they can yield the most sizable improvements.
+In 2017, Total also became a signatory to the Guiding  Principles on Reducing Methane Emissions Across  the Natural Gas Value Chain.
+BUSINESSES, PUBLIC AUTHORITIES AND NGOSThrough the Climate & Clean Air Coalition (CCAC),   we are participating in the Oil & Gas Methane Partnership  (OGMP), which brings together oil companies, public authorities and NGOs to promote more effective  measurement, mitigation and reporting of methane  emissions and the sharing of best practices.
+At the Climate Action Summit 2019, the U.N. called on the world community to address this issue more  forcefully.
+The industry will be mobilizing its expertise  within the OGCI and OGMP to help governments  incorporate methane emissions reductions into   their greenhouse gas reduction targets.
+1.
+Fifth IPCC report: The Physical Science Basis, Chapter 8, pages 697-698.
+2.
+Methodology presented to the Society of Petroleum Engineers (SPE), document 179288-MS: ﬁHow to Establish a Methane Reporting in Line with the UNEP-CCAC-OGMP  (United Nations Environment Program, Climate and Clean Air Coalition, Oil & Gas Methane Partnership) within an Oil & Gas Companyﬂ (S. Plisson-Sauné, E. Pirrone, N. Musset,  W. Brown, J. Miné, Total Exploration & Production).
+https://www.onepetro.org/conference-paper/SPE-179288-MS. 3.
+An Investor™s Guide to Methane, UNPRI.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 31AUSEA project: Drone equipped with a greenhouse gas sensor.
+Test conducted with SeekOps.
+1.
+Methane emissions from operated upstream oil and gas assets as a percentage of the volume of gas produced and sold.
+2.
+Global warming potential of 25 over 100 years (fourth IPCC report).
+SPEEDING THE DEVELOPMENT OF EMISSIONS MONITORING AND DETECTION TECHNOLOGY    plant at the site to test and evaluate innovative technologies to detect and measure gas leaks.
+This Transverse Anomaly Detection Infrastructure  (or TADI) can simulate methane and carbon leaks across a wide range     to suppliers interested in testing their own solutions and to the broader   Another Total innovation is the Airborne Ultra-light Spectrometer      detect methane and carbon dioxide.
+This emerging technology will make  models to trace them back to their source.
+Testing has been conducted   <0.25% Methane intensity of the commercial gas  produced in 2018 1Total™s methane emissions across our operated   scope stood at 78,500 tons in 2018.
+Ninety-eight percent of those emissions   were generated by our upstream   operations, while 2% were attributable   to Refining & Chemicals.
+Total™s 2018 Scope 1 GHG Emissions   (operated scope)94%1%5%2Total GHG:   40 Mt CO 2e,   as follows: CO2 CH4N2OSince 2017, through our contributions to the OGCI Climate Investments  fund (see pages 20-21), we have been supporting the development  of technologies to detect and reduce methane emissions.
+In 2018,   we began operating our own Transverse Anomaly Detection Infrastructure   (TADI) facility, where we test emissions monitoring technology   and conduct an array of research programs (see below).
+32 Ł INTEGRATING CLIMATE INTO OUR STRATEGY EMISSIONS SOURCES Š UPSTREAMMETHANE EMISSIONS INTENSITY Š UPSTREAMA comparison of Total™s methane emissions  intensity in its exploration and production  operations with the intensity levels reported  by the U.S. Environmental Protection   Agency (EPA), the International Energy Agency   (World Energy Outlook 2017) and ﬁAssessment   of Methane Emissions from the U.S. Oil   and Gas Supply Chain,ﬂ published in 2018  by Alvarez  et al.
+1.50.510EPA  2015IEA 2017Alvarez  et al.
+2018Total  20180.8%1.4%1.3%<0.25%140601002012040800201020112012201520132016201420172018kt CH41201161231029593978377Process  ventCold ventCombustionFugitiveFlaringIn 2018, methane emissions were the result of:  Ł  Incomplete combustion of gases ˚ared,  estimated on a standard basis at 2% (Flaring):   33%.Ł  Installation degassing (Cold vent): 21%.Ł  Certain units and equipment, including water treatment, oil and gas loading   and unloading, glycol dehydration  and gas-powered pneumatic devices  (Process vent): 24%.
+Ł  Leaks from valves, ˚anges and couplings  (Fugitive): 14%.Ł  Incomplete gas combustion, particularly  in turbines, furnaces, steam generators   and heaters, estimated at 0.5 to 1% depending on the equipment (Combustion): 8%.INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 33In order to meet rising electricity demand responsibly, we are solidifying our integrated growth model   for low-carbon electricity.
+From upstream to downstream, across solar, wind and hydropower,  we continue to seize new opportunities for investment.Low-Carbon Electricity  at the Center of Our StrategyUnder the IEA™s Sustainable Development Scenario,  renewable energies would account for around 30%   of the world™s energy mix in 2040.
+To stake out a position  in that market, and bearing in mind the intermittent, seasonal nature of solar and wind energy, we are investing   in power generation and storage technologies.
+EXPANDING  OUR GENERATION CAPACITY In addition to investing in gas-fired power generation,   we are leveraging our affiliates to expand our commitment   to renewable energies.
+Total Direct Energie produces   and supplies electricity and natural gas.
+Its Total Quadran   affiliate operates a portfolio of 213 wind, solar, hydropower   and biogas facilities in France.
+It is also developing  a range of renewable power projects at various stages   of maturity and in 2019 acquired Vents d™Oc, primarily  active in wind power.
+Total Quadran™s operated installed  capacity of 700 MW is 100% renewable energy.
+Through its Méthanergy affiliate, Total Quadran is also  active in three biomass recovery processes Š landfill  biogas from waste disposal facilities, biogas from  methanation and biomass cogeneration (using wood, agricultural waste, wood waste, etc.)
+Š with the aim  of utilizing the biogas for power generation, as well as for heating and cooling.
+At end-2018, Méthanergy operated  10 biogas recovery units with total capacity of 12 MW   at non-hazardous waste storage facilities.
+TOTAL EREN:  DEDICATED TO RENEWABLE ENERGY   (SOLAR, WIND AND HYDROPOWER)Total Eren was founded in 2017, following Total™s acquisition   of a stake in EREN Renewable Energy.
+The affiliate  develops energy projects in countries and regions where  renewable energy offers an economically viable way to  meet growing energy demand.
+In the Asia-Pacific region,  Africa and Latin America, Total Eren maintains   a diversified range of assets in wind, solar and hydropower.
+Its assets worldwide, operated or under construction, represent gross installed capacity of around 1.3 GW.
+Total Eren intends to boost installed capacity to nearly   5 GW by 2022.
+1. https://publications.total.com/investorDay2019/Strategy-and-Outlook-Presentation-2019_securise.pdf 3 GWInstalled power generation capacity  from renewable sources in 2019  (100% operated).
+>25 GWTarget for installed power generation  capacity from renewable sources   in 2025 (100% operated).
+1 34 Ł INTEGRATING CLIMATE INTO OUR STRATEGY In 2018 Total Eren acquired NovEnergia, an independent  renewable power producer that operates primarily   in southern Europe.
+NovEnergia™s diversified portfolio,  comprising solar and wind farms along with mini hydropower plants, offers net installed capacity   of 657 MW from 47 operated assets.
+In 2019, Total Eren formed a joint venture with Petrobras  to develop onshore wind and solar power projects   in Brazil.
+It established an affiliate in São Paulo in 2013 and had installed gross capacity of 140 MW in operation  or under construction in the country at end-2018.
+Saft battery plant and wind farm in the Faroe Islands.
+TOTAL AND RENEWABLE ENERGIES 2011 SunPower joins Total,  creating a new global  leader in the solar  industry.
+2017 Acquisition of an interest   in Eren Renewable Energy,  renamed Total Eren,   to accelerate growth in  renewable power generation.
+2018 Creation of Total Solar   to generate and market   solar energy to industrial   and commercial customers   and to the grid.
+Acquisition of French electricity  supplier Direct Energie   and its a˚liate Quadran,   which operates and develops  renewable energy projects  (wind, solar, hydropower   and biogas).2016 Acquisition of Saft, specialized   in the design, manufacturing  and marketing of advanced  technology battery solutions   for industrial applications.
+Acquisition of Lampiris, Belgium™s third-ranked  supplier of gas and power   to residential customers.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 35A GLOBAL PRESENCE IN SOLAR POWEROur solar power operations are conducted through  Total Solar, an affiliate that sells distributed photovoltaic   systems for industrial and commercial customers.
+Total Solar is also developing ground-based solar arrays  in Europe, the Middle East, Japan and South Africa.
+In addition, through our stake in California-based  SunPower, Total markets solar panels around the world.
+SunPower™s photovoltaic cells are used on commercial  and residential rooftops and in the construction   of solar power plants.
+In 2018, the company installed more than 1.5 GW of new capacity, compared   to 1.4 GW in 2017 and 1.3 GW in 2016.ELECTRICAL ENERGY STORAGESolar and wind energy are inherently intermittent.
+If they are to be integrated into the electrical grids   of the future, large-scale storage of the surplus  electricity they produce will be essential.
+Total is investing in stationary energy storage capacity.
+Our Saft affiliate specializes in the design, production  and marketing of high-tech batteries1 for industry.
+The company is active in such areas as transportation,   telecommunications, industrial infrastructure,   civil and military electronics, aerospace and defense.
+In 2018, Saft teamed up with European partners 2 on an ambitious R&D campaign to develop the next generation of batteries: lithium-ion batteries (Gen 3A and Gen 3B) and solid-state battery lithium technology.
+In April 2019, Saft created a joint venture  with China™s Tianneng Energy Technology (TET) 3 as part of its plans to move toward large-scale  production.
+Their goal will be to improve on current  technology4 at a lower cost, thanks to TET™s cell  production capacity 5.GROWING OUR DISTRIBUTION  OF LOW-CARBON ELECTRICITY Having provided natural gas to industrial customers  for several decades, we are now expanding   our offering in a number of European countries   to include low-carbon electricity.
+We are a leader in   the residential market, thanks to our 2016 acquisition   of Lampiris, the 2017 launch of Total Spring and   the 2018 acquisition of Direct Energie.
+In 2018,   we delivered 133 TWh of gas and electricity to   more than 5 million customer sites.
+Our aim is to  capture 15% of the French and Belgian residential  markets within five years.
+We™re also expanding   our distribution operations to include the U.K.,  Spain, Germany and the Netherlands.
+1.
+Primary lithium, lithium-ion and nickel-cadmium.2.
+Siemens, Umicore, Manz and Solvay.
+3.
+One of the world™s leading lead-acid battery manufacturers.
+4.
+Lithium-ion batteries with a liquid electrolyte in an organic solvent (primarily used in electric bicycles and vehicles) and energy storage solutions.
+5.
+3.5 GWh already in operation, for a potential of 5.5 GWh.
+36 Ł INTEGRATING CLIMATE INTO OUR STRATEGY 1.
+Optifuel Lab 3 is a laboratory vehicle developed as part of the FALCON   (Flexible & Aerodynamic Truck for Low CONsumption) program led by Renault Trucks   with a consortium of partners from a variety of backgrounds, such as Faurecia,  Michelin and the Ecole Centrale de Lyon engineering school.
+2.
+Launched in 2015 with partners that include Air Liquide, Daimler, Linde,   OMV and Shell.Faced with climate challenges and changes in technology and usage, transportation is going through a decisive  period of transformation.
+Total is developing and proposing tangible solutions for light vehicles, trucks, shipping  and air transportation.
+Alternatives for Transportation:  Natural Gas and Electricity   Lead the Way TRUCKS: IMPROVING PERFORMANCE  AND PROMOTING NATURAL GAS European Union regulations for new trucks call for a 30%  decline in CO2 emissions from 2019 levels by 2030.
+Natural gas vehicle (NGV) fuel, one of the fossil fuels  with the least emissions, could contribute to achieving this objective.
+There are two types of NGV fuel: compressed   natural gas (CNG), which is suitable for all types of mobility   from light cars to trucks, and liquefied natural gas (LNG),  which is an attractive solution for long-haul trucking.
+In 2017, Total acquired PitPoint B.V., a provider of new   energies for mobility in Europe with leading-edge NGV   fuel technology.
+Total's worldwide NGV fuel network  comprises 360 service stations in Asia, Africa and Europe.
+In the United States, Total is the main shareholder  in Clean Energy, a leading supplier of NGV fuel and  renewable natural gas for the transportation industry  in North America.
+Lastly, Total has developed an NGV  biofuel offering, with the amount of biofuel blended   in adjusted to the consumer™s needs.
+Another challenge involves improving the fuel efficiency  of the huge number of diesel vehicles still on the road.
+Total is participating in the FALCON collaborative   project™s Optifuel Lab 3 1, which aims to develop  a full-scale demonstrator to achieve a 13% reduction   in fuel consumption.
+SHIPPING: THE POTENTIAL OF LNGThe sulfur content of marine fuels will be capped  at 0.5% in 2020 compared with 3.5% today.
+In response,   Total Marine Fuels Global Solutions, the affiliate  responsible for marketing marine fuel worldwide,   is offering a number of solutions, including LNG.
+Total has signed several major agreements with shipping  companies.
+Among them, forefront global shipping   firm CMA CGM has selected Total to supply its first   nine LNG-powered containerships, which are scheduled   for delivery starting in 2020.
+Total has also formed   a partnership with Brittany Ferries to supply  LNG bunker fuel to the Honfieur,  which sails  the Ouistreham-Portsmouth route, as from 2019.
+STEPPING UP THE DEVELOPMENT  OF HYDROGEN    zero carbon emissions.
+Total is a member of the  Hydrogen Council alongside 12 leading companies     to unite their forces to put hydrogen at the forefront       as part of the H2 Mobility Germany joint venture 2which aims to install a network of 100 hydrogen stations    in France will open in early 2020 in Le Mans.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 371.
+Total Energy Outlook ELECTRIC VEHICLES: FAST CHARGING  SOLUTIONSAlthough they accounted for just 0.5% of cars and trucks on the road (2 million vehicles) and 2% of sales  at December 31, 2018, electric vehicles (EVs) could represent nearly a third of all vehicles and half of all   sales worldwide by 2040 (based on our estimates)1.
+If that boom is to materialize, however, the number   of charging points will need to increase dramatically.
+In 2018, Total acquired G2mobility, the French leader   in smart charging solutions, and went on to create   a business devoted entirely to electric mobility.
+Total EV Charge offers charging solutions for every   type of customer, from businesses and consumers   to municipalities, in all kinds of locations (streets, public  parking areas, service stations, office buildings, private  homes, and more).
+Drawing on our extensive network of service stations,  we plan to install fast charging points (i.e., a 175 kW  charger giving 100 kilometers of range in around ten  minutes) on major roadways every 150 kilometers.
+Our goal is to install 300 charging stations across Europe   by 2022 with a total of more than 1,000 charging points.
+And by 2023, Amsterdam will have 10,000 charging  points with a maximum capacity of 17 kW each.In early 2019, we introduced a line of ˚uids especially  designed for electric and hybrid vehicles.
+These new products address the specific problems posed by  powertrains and transmissions rotating at high speeds and   help manage heat exchange in the vehicle™s components,   particularly its batteries.AIR TRANSPORTATION:  BIOJET FUEL,  A FORWARD-LOOKING SOLUTION The air transportation industry has set a goal of halving  its net greenhouse gas emissions from the 2005 baseline  by 2050.
+Biojet fuel Š also known as biokerosene Š   will play a pivotal role in achieving this objective.
+Total has already marked several major milestones   in this area, notably with the Lab™line for the Future  project in 2016, in which one Air France ˚ight a week  between Toulouse and Paris was powered by biojet fuel.
+Total has also signed green growth commitments   with the Ministry of Ecology and Inclusive Transition   and the Ministry of Transportation in France.
+As part of these commitments, five key players in French  biojet fuel (Air France, Airbus, Safran, Suez and Total)  are currently conducting a study to define the optimal  conditions for producing and marketing clean fuels   for air transportation.
+TOTAL ATTENDS THE ELECTRIC   VEHICLES SYMPOSIUM          Fast charging point for electric vehicles   at a Total service station in France.
+360 The number of NGV fuel stations in Asia,   Africa and Europe.
+1,000 Number of fast charging points (175 kW)  at 300 Total service stations by 2022 in Europe.
+150,000 Number of Level 2 (22 kW) charging points   in public and private parking facilities by 2025.
+38 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Consuming less energy at our operated facilities is the ˚rst key driver for reducing greenhouse gas emissions.
+For that reason, we are taking steps to improve energy ef˚ciency at our sites.
+Total uses our Group Energy Efficiency Index (GEEI) to  evaluate our performance.
+Since 2010, we have improved  energy efficiency at our facilities by more than 10%,   and we are continuing our efforts to maintain that rate   of improvement.
+We set a goal of reducing routine ˚aring at our operated  facilities by 80% between 2010 and 2020 Š a target  that we met in 2017.
+Our current objective is to eliminate  ˚aring by 2030.In 2013, we defined formal standards to be implemented  at our approximately 40 operated sites that consume  more than 50,000 tons of oil equivalent (toe) of primary  energy per year.
+By end-2018, all the facilities concerned  were in compliance or had initiated the necessary actions.
+Our goal is to see all of these sites adopt an auditable energy management system by the end of 2020,   such as the ISO 50001 standard for energy management   (see opposite).
+In addition, several sites that are less  energy-intensive have voluntarily taken steps to obtain  ISO 50001 certification.
+We can draw on innovative architectures and equipment  to improve energy efficiency at our sites.
+For example,   we have installed systems to recover heat from gas  turbines on our offshore production barges, offshore  platforms and onshore facilities, thereby eliminating   the need for heaters or steam generators.
+PURSUING EXPLORATION AND DEVELOPMENT  ON A MORE SELECTIVE BASISAccording to the IEA™s Sustainable Development Scenario 1,  more than one-third of oil and gas demand to 2040   will need to be met from fields that have not yet   been developed or, in some cases, discovered.
+Curtailing Emissions  From Our Sites  1.
+Assuming a natural decline at oil and gas fields of about 3% annually.
+Moho Nord in the Republic of the Congo: A Total-operated site designed for zero routine ˚aring.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 39These fields could offer better environmental and economic profiles than some  of the fields in operation today.
+To meet the global population™s energy needs,  oil exploration and production will need to continue for several decades,   with careful attention to the ecological, environmental and social conditions  under which fields are developed and brought on stream.
+We are focusing on production and processing assets with competitive costs  while respecting the highest safety and environmental standards.
+With that in mind, we apply a long-term carbon price when conducting  economic evaluations of our investments.
+That price ranges from USD 30   to USD 40 per ton, depending on the oil price scenario, or corresponds to  the actual price of carbon if it is higher in a given country.
+This internal carbon  price re˚ects our desire to increase the share of gas in our hydrocarbon  production and devote more investment to research into low-carbon  technologies.THE RELIABILITY OF OUR FACILITIES In our quest for energy efficiency, we never compromise safety and reliability.
+We make every effort to ensure our facilities can withstand natural disasters.
+The IPCC anticipates increasingly significant natural impacts over the coming  decades in several regions of the world.
+We assess the vulnerability   of our sites to weather and seismic hazards, and take them into account   when designing industrial facilities.
+To date, our internal studies have  not identified any facilities that cannot withstand the currently known  consequences of climate change.
+A NEW TARGET FOR  EMISSIONS REDUCTION  IN ABSOLUTE TERMS for reducing both Scope 1  (direct greenhouse gas emissions)   and Scope 2 emissions  (indirect emissions resulting  from purchased energy).
+Our goal is to reduce greenhouse   gas emissions (Scopes 1 and 2) at operated oil and gas facilities to less than 40 million tons  of CO2e in 2025 from 46 million  tons of CO2e in 2015.
+25% Reduction in greenhouse gas emissions from  our operated activities since 2010.
+We met  this objective in part by reducing the use   of ˝aring and improving energy e˚ciency.
+Routine fiaring (Mcu.
+m/day)854276310201020112012201520132016201420172020  target:   80% reduction 2030 target:  zero 20180ISO 50001 STANDARD  Like the ISO 9001 and ISO 14001   for energy management is based  on continuous improvement.
+It relies on  a methodology for using energy more   based on detailed audits and measuring results over time.
+The standard is  designed for every business sector  and for companies of all sizes.
+40 Ł INTEGRATING CLIMATE INTO OUR STRATEGY To comply with European Union standards, biofuels must emit across their life cycle less than half the CO 2 equivalent of fossil fuel equivalents.
+Biofuels are made from renewable raw materials or waste materials.
+For more than 20 years, we have been a leader in biofuels research, production and distribution,   constantly working to provide more sustainable, high-performance products.
+Promoting Sustainable   Biofuels 1.
+Hydroprocessed Esters and Fatty Acids.
+2.
+All of the oils we purchase are certified sustainable in accordance with the E.U.
+criteria (on carbon footprint, non-deforestation, appropriate land use and respect   for human rights) defined in the Renewable Energy Directive (RED).
+3.
+A voluntary system, recognized as valid by the European Commission in its Decision (EU) 2019/1175 of July 9, 2019.
+4.
+Calculated using a Life Cycle Assessment (LCA).250 The number of jobs maintained   at La Mède through conversion  of the refinery.
+Less than 50%   Biofuels that comply with European Union  standards emit less than half the greenhouse  gases produced by equivalent fossil fuels 4.In 2018, Total blended 2.4 million tons of sustainable  biofuel into our products in Europe, distributing a total  volume of 3.2 million tons worldwide.
+In late 2018,  we acquired Zema, a Brazilian distributor that operates  a network of 280 service stations and markets some 900,000 cubic meters of fuel.
+Of this, around 30% is  biofuel, including 135,000 cubic meters of pure ethanol.
+In June 2019, work was completed on transforming  the La Mède refinery in France into a biorefinery.
+The complex can produce 0.5 million tons of hydrotreated  vegetable oil (HVO).
+It can also produce biojet fuel (HEFA 1)  for aviation.
+La Mède will produce high-quality biofuels  that can be used individually or in blended form  into traditional fossil fuels.100% CERTIFIED-SUSTAINABLE OIL  The biofuels produced at La Mède since June 2019  incorporate a wide array of vegetable oils, including rapeseed, distiller corn, palm, soybean, sun˚ower and  carinata, that are certified sustainable per European Union   criteria, as well as residues (such as paper mill waste),  used cooking oil and animal fat.
+In 2018, we created a dedicated organization   for our supplier vetting process to ensure that the oils  sourced for the La Mède refinery are sustainable 2.
+In this way, we supplement the European Union™s mandatory   certification with our own rigorous supplier management  process.
+We select a limited number of responsible  partners so we can work with them to define and monitor improvement plans.
+These partners are required to join  the Roundtable on Sustainable Palm Oil (RSPO)3 and agree to help the sector improve its use of sustainable  palm oil.
+In particular, they must sign Total™s Fundamental  Principles of Purchasing and appoint a dedicated  sustainability audit team.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 41Hydrotreated vegetable oil (HVO) processing unit at the La Mède biorefinery in France.
+TOWARD  SECOND-GENERATION BIOFUELS We are actively working to develop second-generation, or advanced,  biofuels, which pose a number of challenges in terms of availability,  collection and technology.
+These fuels will supplement, rather than  replace, first-generation biofuels in helping to reduce greenhouse   gas emissions.
+Today, 97% of the biofuels produced worldwide   are first-generation.
+In the last decade, Total has spent more than  fi500 million on advanced biofuel R&D, examining all possible biomass  conversion pathways Š thermochemical conversion, biotechnology,  algae, etc.
+Š both in our own laboratories and through R&D partnerships   with manufacturers, start-ups, universities and private laboratories.
+In the BioTfueL project 1, for example, thermochemistry is being  used to convert lignocellulosic biomass such as straw, forest waste   and dedicated crops into biofuels that can be used in all types   of diesel and jet engines.
+We are likewise exploring biotechnology,  studying microalgae over the last ten years, with the goal of producing  oils without the need for arable land.
+1.
+At our Dunkirk site with our partners: Axens, the French Alternative Energies and Atomic Energy Commission (CEA), IFP Energies Nouvelles,   Avril and ThyssenKrupp Industrial Solutions.
+2.
+ASTM International, formerly the American Society for Testing and Materials.
+A USEFUL ROLE  FOR LA MÈDE  chosen as a site for the European     which is designed to demonstrate   that Europe has the industrial  capability to produce sustainable   biofuels for aviation that comply with the ASTM2 standard.
+Launched in May 2018 and BIO4A is led by a consortium of partners that includes Total™s  42 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Natural carbon sinks are an effective means of capturing carbon dioxide.
+In June 2019, we created our new  Nature-Based Solutions business unit to fund, develop and manage operations for sequestering carbon   or preventing carbon emissions.
+Natural Carbon Sinks:  USD 100 Million a Year   to Capture and Store Carbon Carbon sinks, which can take multiple forms in the course  of a natural cycle, work by absorption and emission.
+The mechanisms at play, including photosynthesis   and sedimentation, can be enhanced through practices  for conserving and cultivating natural areas.
+These practices maintain and increase the amount   of carbon contained in biomass and living soil.CUSTOMIZED SOLUTIONS  In the field, advanced techniques in forestry, farming and  aquatic resource development, coupled with conservation  practices for remarkable natural areas, can preserve  and even augment the effects of natural carbon sinks.
+Those practices include replanting open or degraded  areas and protecting environments that already store  significant quantities of carbon, as well as agroforestry,  permaculture, regenerative agriculture, silvopasture,  certified forestry and more.
+All of these solutions   can be tailored to local and regional resources   and weather conditions.SUSTAINABLE  LAND USE  The needs and practices of local residents serve as   the starting point for these types of projects.
+Campaigns  conducted in harmony with natural regeneration of  resources will yield social, financial and environmental  benefits for local communities at the same time.
+We intend to invest USD 100 million annually in natural  carbon sinks after 2020.
+This substantial, patient investment will help us build these value chains  and ensure they are maintained on a lasting basis.
+Total is aiming for sustainable CO 2 storage capacity  of 5 million tons by 2030.
+TOTAL FOUNDATION PLEDGES SUPPORT   FOR FORESTSThe Total Foundation program groups together     new partnerships in 2018 to help preserve sensitive    with France™s National Forestry Board (ONF) to protect  the country™s forests against natural hazards.
+It also  partnered with the coastal conservancy Conservatoire   the effects of climate change on France™s coastlines.
+Mediterranean forests in France using nature-based  solutions.USD 100 million Annual budget of Nature-Based Solutions in 2020.
+5 million tons of CO 2 per year Target for sustainable CO 2 storage capacity in 2030.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 43We are pursuing our commitment to commercial development of carbon capture, utilization and storage (CCUS),  an essential plank of our strategy.
+Preparing for Industrial  Deployment of CCUSWhile carbon emissions need to be reduced, they are  unlikely to be eliminated entirely.
+Aside from transportation   and power generation, several industrial sectors that are key to the economy, such as cement and steel  manufacturing, will most likely continue to emit carbon dioxide through their operations for several decades   to come.
+By helping to make those industries less carbon-intensive, CCUS offers a promising opportunity  in the battle against climate change.
+It also opens the door to low-carbon electricity from natural gas and could  thereby help to offset the inherently intermittent nature of  renewable energies.
+With that in mind, we are allocating  10% of our R&D budget to CCUS technology and helping to develop the first industrial hubs for commercial CCUS.
+NORTHERN LIGHTS Northern Lights is a large-scale project underway   in Norway, developed in partnership with Equinor and  Shell.
+The first phase involves building a carbon capture,  transportation and storage network able to handle  1.5 million tons of carbon a year.
+The project includes  options for future expansion that could spur   the development of new commercial-scale carbon   capture solutions in Norway and elsewhere in Europe.
+One of the innovative aspects of Northern Lights is that   it could become the world™s first storage site to take  delivery of carbon from industry sources in several  countries.
+We are currently in talks with Norwegian  officials to define the contractual framework for the project, which is likely to take the form of a partnership  between public (mainly governments) and private players.
+CLEAN GAS PROJECTAlongside the OGCI Climate Investments fund,  Total is also a partner in the Clean Gas Project located  in Tees Valley in northeastern England.
+That project Š  the first of its kind in the United Kingdom, particularly  for gas-fired power plants Š is set to capture carbon  emissions from an entire industrial region.
+Meanwhile, in May 2019, OGCI Climate Investments (of which Total is a founding member) embarked on  the largest carbon capture and sequestration project  in the United States.
+The Wabash Valley Resources  CCUS project will capture 1.5 million to 1.75 million  tons of CO2 annually from a co-located ammonia  production plant, drastically shrinking its carbon  footprint.
+This world first has major implications  for fertilizer manufacturers, who account for 2%   of the world™s carbon emissions 1.
+10% Share of Total™s R&D budget  allocated to CCUS.
+1.
+Source: Oil and Gas Climate Initiative website, ﬁOGCI Climate Investments, the Oil and Gas Climate Initiative™s investment arm, announces a new investment in carbon capture  and sequestration (CCS) project to create the world™s first ammonia produced with near zero carbon footprintﬂ (https://oilandgasclimateinitiative.com/ogci-climate-investments- announces-a-new-investment-in-wabash-valley-resources-carbon-capture-and-sequestration-project/).
+2.4 billion  tons Projected volume of CO 2 from fossil energies captured   and stored in 2040 under the International Energy  Agency™s Sustainable Development Scenario.
+44 Ł INTEGRATING CLIMATE INTO OUR STRATEGY INTEGRAL TO OUR R&D OBJECTIVES  Capture Center (NCCC).
+This facility tests carbon capture  technology on a pilot scale (10 tons of CO2 per day)  with the goal of reducing carbon emissions from fossil  fuel-based power plants.
+Through its evaluation of     the projected cost of carbon capture by one third.
+TM Demonstration in Dunkirk) as part of the European Union™s  Horizon 2020 research and innovation program.
+The project has three objectives:      TM process on a pilot industrial scale by  capturing 0.5 tons of CO2 per hour at an ArcelorMittal site.
+in 2025.
+The unit is expected to capture more than   125 tons of CO2  of CO2 a year.
+tons of CO2 a year.
+The cluster is expected to be  operational by 2035.   in particular on CCUS.
+The objective is to reduce the cost    the value chain so that CCUS solutions can be deployed  on a wide scale.
+the Fraunhofer Institute for Microstructure of Materials and     the industrial-scale feasibility of producing methanol from  CO2 and hydrogen obtained through high-temperature  electrolysis using electricity generated by renewable  sources.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 45As we improve energy ef˚ciency at our sites, we are also introducing a range of services to support   our customers as they shrink their carbon footprint.
+They include our Total Ecosolutions label, the energy  ef˚ciency solutions available from GreenFlex and the steps we have taken to promote recycled polymers.
+Energy Ef˚ciency:  Supporting Our Customers  As They Reduce Their EmissionsTOTAL ECOSOLUTIONS:  TRANSPARENCY   AND DEMANDING STANDARDS  The Total Ecosolutions label marked its tenth anniversary  in 2019.
+During that time, it has consistently pursued  one objective: offer innovative solutions that deliver better  environmental performance than the leading products   in the market.
+Among the criteria used to award   the label is whether a product or service reduces carbon  emissions.
+Other factors play a role as well, such as  whether the solution uses water and non-renewable  resources more efficiently or has a reduced impact on  natural ecosystems.
+As of end-2018, nearly 100 Total  products and services bore the Total Ecosolutions label,  ranging from Excellium fuels and lubricants to SunPower  solar panels and selected plastics.
+Twelve million tons   of carbon emissions have been avoided over the past decade thanks to Total Ecosolutions products.
+From the outset, one of the strengths of our   Total Ecosolutions label has been its transparency.
+That extends to the process we use to evaluate products,  which complies with the ISO 14021 standard governing  self-declared environmental claims and declarations.
+The award process is transparent as well: in addition   to certifying new solutions, we can withdraw the label from products that no longer offer the best performance  in the market.
+As a result, the array of products   and services bearing the label may change over time.
+We constantly reevaluate the label to ensure it remains  relevant.
+To keep in step with expectations among our customers  and civil society, Total Ecosolutions enlists the help  of outside stakeholders.
+Researchers from academia,  research institutions and independent experts have all  contributed to the award process by helping to oversee  the program since April 2019.
+GREENFLEX: CONSULTANTS DESIGNING  ENERGY EFFICIENCY SOLUTIONSTotal Ecosolutions relies on the specialized knowledge  available at GreenFlex, which Total acquired in 2017.
+GreenFlex has built extensive know-how in energy   and environmental efficiency and advises more than   700 customers throughout Europe.
+Formerly separate  Total affiliates such as BHC Energy in France and Tenag  in Germany now operate under the GreenFlex banner.
+GreenFlex™s array of strategic and operational consulting  services ranges from energy audits to solutions for  improving energy efficiency and reducing environmental  impact.
+GreenFlex can also develop action plans and  assist customers in carrying them out.
+The affiliate draws on digital technology designed to make optimal use  of customer data.
+97Number of products bearing   the Total Ecosolutions label.
+75,000 tons  per year  Volume of PLA (a biopolymer) produced by Total.
+46 Ł INTEGRATING CLIMATE INTO OUR STRATEGY In 2019, GreenFlex introduced a new integrated range  of services called Total Carbon Neutral Solutions (TCNS)  that customers can use to:Ł  De˚ne a low-carbon trajectory by identifying  their objectives, timetable and feasible solutions.Ł  Measure , analyze and manage their emissions  in order to make the right decisions.
+Ł  Reduce their emissions to the bare minimum   (i.e., only those cannot be eliminated).Ł  Offset  those residual emissions using carbon capture  projects, such as those devised by Total™s Nature-Based   Solutions (NBS) business unit.HUTCHINSON: LIGHTER-WEIGHT VEHICLES, LOWER EMISSIONSTotal™s extensive experience in producing and marketing  high-performance plastics is also a springboard to  smaller carbon footprints for our customers.
+In particular,  we™re developing the transportation solutions of the future,   not just for cars, but for air travel and rail as well.
+By using lighter-weight plastic, we can reduce fuel  consumption and, by extension, carbon emissions from  an array of transportation options.
+Hutchinson, a wholly owned Total affiliate, specializes in elastomer processing.
+Its spare parts, used by several major automakers,   plus its products designed for the Airbus A330 are  helping to usher in a sustainable future for transportation.
+Moreover, thanks to its expertise in fields such as vehicle  weight reduction and the heat balance of engines,  Hutchinson is making a major contribution to vehicle electrification for both passenger cars and commercial  vehicles.
+The company draws on its R&D network to ensure continuous innovation, operating a research  center and 25 techcenters and partnering with universities   around the world.
+POLYMERS:  RECYCLING AND BIOPLASTICPlastics recycling likewise offers opportunities for   Total™s future, as our acquisition of Synova indicates   (see sidebar).
+Our Circular Compounds ® polypropylene  and polyethylene grades of plastic contain at least  50% recycled materials and offer the same properties   as virgin polymers.
+We have also joined forces with Citeo,  Saint-Gobain and Syndifrais to establish a polystyrene  recycling channel in France by 2020.
+We will be testing  the feasibility of large-scale production at our industrial  sites in Carling, France, and Feluy, Belgium.
+Plastic can also be made from natural elements,   as biomass can be converted into biobased polymers.
+As part of a joint venture with Corbion that started up   in December 2018, we have opened a new facility  in Thailand that can produce 75,000 tons of polylactic  acid (PLA) per year.
+Made from sugar cane, PLA is   a recyclable, biodegradable biopolymer suitable for  various types of packaging.
+EXPANDING THE USE OF RECYCLED  POLYPROPYLENE   of recycled polypropylene for the automobile industry.
+The company uses industrial waste to produce    quality standards of automakers and original equipment   manufacturers.
+By combining Synova™s expertise     is expanding the possibilities for recycled polypropylene.
+Offering performance equivalent to that of virgin   manufacture lighter-weight vehicles that generate  fewer carbon emissions.Hutchinson™s active damper systems make cylinder deactivation  possible in certain car models, thereby helping to reduce   their CO2 emissions.
+INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 47Emissions at sites related to our operations (Scope 1 and 2 emissions) are within our control, and as a result  we can take the necessary steps to reduce them.
+But emissions related to the use of our products by Total  customers (Scope 3 emissions) depend primarily on the choices they make.
+We closely monitor customer  demand and consumption habits as part of our desire to help customers generate fewer carbon emissions  across the life cycle of the products they use.
+To this end, we have developed a carbon intensity indicator that evaluates the average greenhouse gas  emissions for the energy products used by our customers.
+It lets us track customer demand for lower-carbon  products and keep tabs on the pace of the energy transition.
+An Indicator That Monitors Customer Demand  for a Smaller Carbon FootprintOur strategy is leading us into fast-growing low-carbon   markets.
+As a result, we can offer our customers   an increasingly decarbonized energy mix including   natural gas, renewable power, solar panels, batteries,  electric vehicle charging and more.
+These new products  generate fewer greenhouse gas emissions during use.
+If our customers change their habits in tandem with  the changes in our offering, we will together contribute   to achieving the targets set out in the Paris Agreement.
+ANALYZING  EACH PRODUCT™S LIFE CYCLEOur carbon intensity indicator can be used to identify  the overall emissions associated with an energy product  used by Total customers.
+It represents the average   of our products™ greenhouse gas emissions per unit   of energy across their entire life cycle, from the time   they are produced to their end use.
+We calculate the indicator as the quotient of two values:   Ł For the numerator: -  Emissions related to producing and processing   the energy products used by our customers,  calculated on the basis of Total™s average emission rates.
+-  Emissions related to our customers™ use of those   energy products, calculated by applying stoichiometric   emissions factors per product to obtain a quantity of   emissions.
+Non-energy products (asphalt and bitumen,   lubricants, plastics, etc.)
+are not accounted for.
+-  Negative emissions stored using CCUS and in natural  carbon sinks.
+Ł  For the denominator: The quantity of energy sold.
+Average load factor and efficiency are used to obtain  equivalents for electricity generated from fossil fuels  and other sources.
+In accordance with IPIECA 1 recommendations,   when the nature of a value chain within an integrated  company requires trade-offs, the maximum ˚ows from  that value chain are used for calculation purposes.
+1.
+The global oil and gas industry association for environmental and social issues.
+48 Ł INTEGRATING CLIMATE INTO OUR STRATEGY MAKING THE MOVE TO LOWER-CARBON ENERGY PRODUCTSTotal™s ambition is to reduce that carbon intensity by 15%  between 2015 Š the year of the Paris Agreement Š   and 2030.
+In the longer term, beyond 2030, our ambition  is to maintain or even accelerate this rate of reduction,  depending on developments in technology and public incentive policies.
+That would add up to a total decrease  of 25 to 40% by 2040.
+The carbon intensity of the products used by Total  customers has already fallen from 75 to 71 grams of CO 2e per kBtu since 2015 Š a 5% decrease.
+Since energy with   a lower carbon intensity (natural gas and electricity) now makes up more of our sales, we can offer a lower-carbon  energy mix.
+Through our acquisitions of Direct Energie  and Engie™s LNG business in 2018, gas and electricity  have come to represent a substantially larger proportion  of our sales mix, and our SunPower affiliate (solar panels) is accounting for a rising share of Total™s sales as well.
+Alongside this change in our product portfolio, improved  energy efficiency at our oil and gas facilities is yielding  further reductions in the carbon intensity of the products   our customers use.
+Possible sales mix in 2040 depending on consumer behaviorNatural gas: 45 to 55%Oil (including biofuels): 30 to 40%Low-carbon electricity: 15 to 20%Carbon intensity of the energy products sold to our customers Base 100 in 2015 (75 gCO2e/kBtu)This indicator™s decline will depend on changes in consumption patterns and public policies deployed to help  consumers transition.
+As a result of these changes, Total™s sales mix in 2040 could shift as follows: gas (45 to 55%),   petroleum products (30 to 40%, including biofuels) and low-carbon electricity (15 to 20%).
+201820152030204050100Ambition Down 15%2015-30Achieved95857560Total and Industry  AssociationsTotal is a member of many industry associations, and we have published a list   of our af˚liations since 2016.
+We typically cooperate with these organizations  on technical or scienti˚c matters, but some of these groups also take public  stances on climate issues.
+In 2019, we decided to review how their positions  aligned with our own.
+50 Ł INTEGRATING CLIMATE INTO OUR STRATEGY Reviewing to Work   Better Together Total is a member of many industry associations, and we have published a list of our af˚liations since 2016.
+We typically cooperate with those organizations on technical matters, but some of those groups take public  stances on other issues, such as the climate.
+We verify that those organizations hold positions aligned with   our own, and in 2019 we decided to review each organization™s stance on climate issues.
+One association holds  views that diverge markedly from our own; therefore, we have chosen not to renew our membership in 2020.
+TOTAL AND INDUSTRY ASSOCIATIONS  Total joins national and international business and industry   associations when we believe that collective action  will be more effective than isolated steps.
+Through those  organizations, we can help to define technical standards,  for example, and also make our voice heard with   regard to government regulations or policies related   to our business.In most cases, an organization™s leadership will move  to adopt positions that re˚ect a consensus view among  its members, and accordingly may not re˚ect the views  of every member.
+Total™s representatives make it their  priority to support, defend and promote our position  within those organizations.
+If there is disagreement,   our representatives reaffirm Total™s stance and advocate  changes in the organization™s position.
+They may even  propose that Total withdraw if the organization™s position  does not change.We believe this pragmatic approach is the best way   to ensure that our participation in industry organizations  furthers our own stated positions.Acknowledging and responding to climate change   is a major topic on the current agenda for public authorities,   consumers and businesses.
+Industry organizations   have an important role to play in any discussion   of how the goals in the Paris Agreement can be met.
+For example, through our membership in associations  calling for carbon pricing mechanisms, we have helped  to spur wider recognition of the value those solutions   can offer.
+A REVIEW OF OUR INDUSTRY AFFILIATIONS In 2019, we examined the most significant industry associations to which Total belongs to review their stance  on climate issues.For those with a stated public position, we examined whether it was aligned with our own, based on six criteria:1.
+The scienti˚c position: Total considers the link  between human activity and climate change is  an established fact.2.
+The Paris Agreement:  Total recognizes that the Paris  Agreement is a major advance in the fight against  climate change and supports the initiatives  of the implementing States to fulfill its aims.3.
+Carbon pricing:  Total believes that it is necessary  to implement carbon pricing to encourage energy  efficiency, support low-carbon technology and develop  carbon sinks, all critical to achieve carbon neutrality.
+4.
+The role of natural gas:  Total considers that natural  gas is a key component in the energy transition,  specifically as an alternative to coal.
+The Group  supports policies to reduce methane emissions   from natural gas production and consumption and,   in particular, campaigns to reduce the use of ˚aring  (such as the World Bank™s Zero Routine Flaring   by 2030 Initiative).5.
+Development of renewable energies:  Total supports  policies, initiatives and technologies to promote growth  in renewable energies.
+The Group also supports   the development of sustainable biofuels.INTEGRATING CLIMATE INTO OUR STRATEGY  Ł 516.
+Development of Carbon Capture, Utilization   and Storage (CCUS): Total supports the development   of CCUS, which is critical to achieve carbon neutrality by the second half of the century, the aim of the Paris  Agreement.
+For each criterion, public positions opposed to our own were considered to be ﬁNot Alignedﬂ and ambiguous  positions were considered to be ﬁPartially Aligned.ﬂ  Concerning the first two criteria (scientific position   and support for the Paris Agreement), the absence   of a public position was interpreted as partial alignment.
+For the other criteria, the absence of a position was not taken into account in this review.
+Once we had completed our analysis, we assigned  each association to one of three categories, based   on its alignment with Total™s positions: ﬁNot Alignedﬂ  (at least one criterion with a ﬁNot Alignedﬂ position), ﬁPartially Alignedﬂ (one or more criteria with ﬁPartially  Alignedﬂ positions), or ﬁAlignedﬂ (for all of the criteria addressed by the association, the stated positions   were in line with Total™s).
+Out of all the associations we examined, 30 were considered   high-priority.
+Those associations were selected on   the basis of their impact and reputation and the attention  they receive from investors and NGOs.
+The vast majority  (26 out of 30) were deemed ﬁAligned.ﬂ Three were found  to be ﬁPartially Alignedﬂ (American Chemistry Council, American Petroleum Institute and Canadian Association  of Petroleum Producers), and one was found to be ﬁNot  Alignedﬂ (American Fuel & Petrochemical Manufacturers).
+Regarding the latter, we have opted not to renew   our membership for 2020.As for the three ﬁPartially Alignedﬂ associations, we have   chosen to advocate internally for changes in their positions,  especially the API™s support for the rollback of U.S.  regulations on methane emissions.
+We will reevaluate  each association™s position in the future.
+26/30Number of associations whose climate   commitment was deemed ﬁAlignedﬂ   with that of Total (out of the 30 high-priority   associations reviewed in 2019).
+1Association in which Total will not renew   its membership for 2020 because of a diverging  commitment to the climate (American Fuel   & Petrochemical Manufacturers).
+TOTAL™S LOBBYING ETHICS CHARTER     Total is a major economic force worldwide.
+Governments and civil society understandably   have strong expectations about the world™s  climate.
+Our lobbying activities are rooted  governed by our Lobbying Ethics Charter.
+that our website include a list of the industry associations to which Total belongs.
+It also  ensures that our publicly stated positions  are consistent with those conveyed through  our lobbying conducted directly or indirectly  through professional organizations or  associations.
+In cases where those positions   Total™s position shall take precedence.
+52 Ł INTEGRATING CLIMATE INTO OUR STRATEGY RESULTS OF OUR REVIEW OF EACH ASSOCIATION™S POSITION ON THE CLIMATE American Fuel & Petrochemical Manufacturers (AFPM) Not AlignedOur analysis reveals divergent positions with AFPM   on the following criteria:- The Paris Agreement (partially aligned).
+- Carbon pricing (not aligned).- Developing renewable energies (partially aligned).
+Total will not be renewing its membership for 2020.
+American Chemistry Council (ACC)American Petroleum Institute (API) Canadian Association of Petroleum Producers (CAPP) Partially AlignedOur analysis indicates that these associations  are partially aligned with Total on one or more   of the following criteria:- The Paris Agreement (API, CAPP).
+- Carbon pricing (API, CAPP).- Developing renewable energies (API, ACC).
+-  The role of natural gas (API).
+In particular, API™s recent  support for the rollback of U.S. regulations on methane  emissions raises questions for Total.
+Our policy with these associations is as follows:- Express the points on which we disagree.
+- Maintain our commitment to promoting our position.
+-  Reevaluate our alignment in the future and reassess   our membership if necessary.
+Association Française des Entreprises Privées   (AFEP, French Association of Private Enterprises) Association Française du Gaz (AFG, French Gas Association) Assomineraria (Italian Petroleum and Mining Industry  Association)Australian Petroleum Production & Exploration  Association (APPEA)Belgian Petroleum Federation (BPF) BusinessEurope European Chemical Industry Council (CEFIC) Danish Shipping (DS)/Essenscia/Eurogas European Round Table of Industrialists (ERT) France Chimie/FuelsEurope International Air Transport Association (IATA) International Association of Oil & Gas Producers (IOGP) International Emissions Trading Association (IETA) IPIECA/MEDEF/Mineralölwirtschaftsverband (MWV)Norsk Olje og Gass (NOROG)Oil & Gas Denmark (OGD)/Oil & Gas UK (OGUK)UK Petroleum Industry Association (UKPIA) Union Française de l'Électricité (UFE, French Electricity  Association)Union Française des industries du Pétrole (UFIP,   French Oil Industry Association) World Business Council for Sustainable Development  (WBCSD)AlignedOur analysis indicates that these associations are  aligned with Total on the criteria selected for this review.
+We will maintain our membership in these associations   in order to promote our positions on the climate   and other issues.Our  Figures As part of our continuous improvement process, we report and are accountable  for our results.
+We rely on best reporting practices that make it easier   for stakeholders to assess our performance.54 Ł INTEGRATING CLIMATE INTO OUR STRATEGY KeyCR = Total Climate Report 2019 CDP = Total™s 2019 response to the CDP Climate Change questionnaire (available at total.com) RD = Total™s 2018 Registration Document Topic Recommendations of the Task Force   on Climate-related Financial Disclosures Location of This Information  in Total™s Reports GOVERNANCEDisclose the organization™s  governance around climate-related  risks and opportunities.a)  Describe the board™s oversight   of climate-related risks and opportunities.
+2018 RD Œ 5.6.1CR Œ p. 10CDP Œ C1.1b)  Describe management™s role in assessing  and managing climate-related risks   and opportunities.2018 RD Œ 5.6.1CR Œ p. 5-9CDP Œ C1.2STRATEGY Disclose the actual and potential impacts of climate-related  risks and opportunities on the organization™s businesses, strategy,  and financial planning where   such information is material.a)  Describe the climate-related risks and  opportunities the organization has identified   over the short, medium, and long term.2018 RD Œ 5.6.2CDP Œ C2b)  Describe the impact of climate-related   risks and opportunities on the organization™s businesses, strategy,   and financial planning.2018 RD Œ 5.6.2CDP Œ C2.5, 2.6c)  Describe the resilience of the  organization™s strategy, taking into  consideration different climate-related  scenarios, including a 2°C or lower scenario.2018 RD Œ 5.6.2CR Œ p. 38-39Reporting FrameworkINTEGRATING CLIMATE INTO OUR STRATEGY  Ł 55Topic Recommendations of the Task Force   on Climate-related Financial Disclosures Location of This Information  in Total™s Reports RISK MANAGEMENTDisclose how the organization identifies, assesses, and manages climate-related risks.
+a)  Describe the organization™s processes for  identifying and assessing climate-related  risks.2018 RD Œ 5.6.3CDP Œ C2.2b)  Describe the organization™s processes   for managing climate-related risks.
+2018 RD Œ 5.6.3CDP Œ C2.2dc)  Describe how processes for identifying,  assessing, and managing climate-related  risks are integrated into the organization™s  overall risk management.2018 RD Œ 5.6.3CDP Œ C3.1METRICS AND TARGETS Disclose the metrics and targets used to assess and manage relevant climate-related risks   and opportunities where   such information is material.a)  Disclose the metrics used by the organization to assess climate-related  risks and opportunities in line with its strategy and risk management process.
+2018 RD Œ 5.6.4CR Œ p. 56CDP Œ C6, C10b)  Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas  (GHG) emissions, and the related risks.
+2018 RD Œ 5.6.4CR Œ p. 56CDP Œ C6, C10c)  Describe the targets used by the  organization to manage climate-related  risks and opportunities and performance against targets.
+2018 RD Œ 5.6.4CR Œ p. 30-32, 38-39, 47-48CDP Œ C4.1, C4.256 Ł INTEGRATING CLIMATE INTO OUR STRATEGY 20102015201620172018SCOPE 1Absolute direct greenhouse gas emissions (operated scope) MtCO2e5242413840BREAKDOWN BY SEGMENTExploration & Production (E1ŒC3) 1MtCO2e2619191718Gas, Renewables & Power (E1ŒC3)MtCO2e--002Refining & Chemicals (E1-C3)MtCO2e2522222121Marketing & Services (E1-C3)MtCO2e<1<1<1<1<1BREAKDOWN BY REGIONEurope (E1-C3) MtCO2e2622212024Africa (E1-C3)MtCO2e1612121011Americas (E1-C3)MtCO2e44444CIS and Asia (E1-C3)MtCO2e4333<1Middle East (E1-C3) MtCO2e21111BREAKDOWN BY TYPE OF GREENHOUSE GAS (EXCLUDING HFCs)CO2 (E1-C1)MtCO2e4839383538Methane Œ CH4 (E1-C1)MtCO2e32222N2O (E1-C1)MtCO2e1<1<1<1<1SCOPE 1 Direct greenhouse gas emissions based on equity share MtCO2e5950515054SCOPE 2 Indirect emissions (E1-S1) MtCO2e54444Greenhouse gas emissions (Scopes 1 & 2) from operated oil   and gas facilitiesMtCO2e5746454142SCOPE 3 2Other indirect emissions Œ Use by customers of products sold   for end use (E1-S2)MtCO2e440410420400400Net primary energy consumption (operated scope) (E2-C1) TWh1571531501421433Group Energy Efficiency Indicator Base 100 in 201010090.891.085.788.4Total daily volume of ˚aring (operated scope) (E4-C1)   (includes routine, start-up, operational and safety ˚aring) Mcu.m/d14.57.27.15.46.5Of which routine ˚aring Mcu.m/d7.52.341.75 1.01.1Carbon intensity of energy products used by Total customers g CO2e/kBtu-756 7473711.
+The references provided in parentheses refer to the 2015 edition of the Oil and Gas Industry Guidance on Voluntary Sustainability Reporting published by IPIECA, API and IOGP.
+E(x) refers to an environmental indicator.
+C(x) refers to a common reporting element.
+S(x) refers to a supplemental reporting element.
+2.
+We comply with the petroleum industry value chain methodologies published by IPIECA, which are consistent with those in the Greenhouse Gas Protocol.
+In this document,   only Category 11 of Scope 3 (Use of sold products), which is the most material, is reported.
+Emissions for this category are calculated based on sales of finished products   for subsequent end use, i.e., combustion of the products to obtain energy.
+A stoichiometric emissions factor (oxidation of molecules into carbon dioxide) is applied to those sales  to obtain a volume of emissions.3.
+Excluding primary energy consumption by Direct Énergie™s gas-fired power plants.
+4.
+Volumes estimated based on historical data.
+5.
+Volume estimated at end-2016 based on the new definition of routine ˚aring published in June 2016 by the Global Gas Flaring Reduction Partnership.
+6.
+Indicator calculated in 2018 using 2015 as the baseline year.
+IndicatorsINTEGRATING CLIMATE INTO OUR STRATEGY  Ł 57Units of Measurement b  barrel B or G  billionboe  barrel of oil equivalent Btu  British thermal unitCO2e  CO2 equivalenteq  equivalentGt  billion tonsGW  gigawattk  thousandM  millionMboe/d  million barrels of oil equivalent per day Mcu.m  million cubic metersMMSCFD million standard cubic feet per day MWh megawatt-hourt  metric tontoe ton of oil equivalentTWh  terawatt-hourAcronyms CAD  Canadian dollarCCUS  Carbon Capture, Utilization and Storage CSR  Corporate Social ResponsibilityFSRU  Floating Storage and Regasification UnitGHG Greenhouse gas IEA  International Energy Agency IPCC  Intergovernmental Panel   on Climate ChangeLNG Liquefied Natural GasNGV Fuel  Natural Gas Vehicle Fuel OECD    Organisation for Economic   Co-operation and DevelopmentOGCI Oil and Gas Climate InitiativeR&D Research and Development TEO  Total Energy Outlook USD United States dollarDe˚nitionsGreenhouse gases:  The six gases named in the Kyoto Protocol: carbon dioxide (CO 2), methane (CH4), nitrous oxide (N 2O), hydro˚uorocarbons (HFCs),  per˚uorocarbons (PFCs) and sulfur hexa˚uoride (SF 6), with their respective Global Warming Potential (GWP),   as described in the 2007 IPCC report.
+Life Cycle Assessment (LCA): A standardized method  for assessing and quantifying the environmental impact  of a product or service.
+A life cycle analysis is used to  identify and quantify the physical ˚ows of matter and energy associated with human activity at every stage of  the product™s life, evaluating the potential impact of those  ˚ows and interpreting the results.
+In particular, it can be  used to compare two products for an identical service.
+Non-routine fiaring:  Flaring other than routine ˚aring  or safety ˚aring associated with oil production and  occurring primarily during occasional or intermittent events.Operated oil and gas facilities: Facilities operated in Total™s Exploration & Production, Refining & Chemicals  and Marketing & Services segments.Operated scope: Reporting on environmental or climate  change-related indicators covers all the activities, sites  and industrial assets in which Total S.A., or one of the  companies it controls, is the operator, i.e.
+either operates  or contractually manages the operations (ﬁoperated domainﬂ).Routine fiaring: Flaring during normal production  operations in the absence of sufficient facilities or adequate geological conditions permitting the reinjection,  onsite utilization or commercialization of produced gas  (as defined by the working group Global Gas Flaring  Reduction program as part of the World Bank™s Zero  Routine Flaring Initiative).
+Routine ˚aring does not include safety ˚aring.Safety fiaring: Flaring to ensure safe performance  of operations conducted at the production sites  (emergency shutdown, safety-related operations, etc.).
+Glossary58 Ł INTEGRATING CLIMATE INTO OUR STRATEGY More Total offers a sustainability reporting and information process outlining our corporate social  responsibility.
+In addition to the Registration Document, all reporting information on this topic  is now available on our Sustainable Performance website.
+All of our publications and the latest news and reports can still be found on our corporate website, total.com.
+Registration DocumentThe 2018 Registration Document presents our activities  and the financial statements for the 2018 financial year.
+https://www.total.com/en/media/media Sustainable PerformanceIn May 2016, Total launched a dedicated website to provide transparent  information on our CSR challenges.
+The website, regularly updated,  introduces the company™s policies, commitments and performance   on all sustainability issues relevant to Total, particularly safety, climate,  environmental stewardship, business ethics, human rights and community  engagement.
+It also publicly discloses Total™s response to environmental,  social and governance (ESG) reporting standards and indexes.
+www.sustainable-performance.total.com Total and Biodiversity Through the act4nature initiative, Total has reaffirmed   and broadened its commitment to biodiversity.
+We adhere to the initiative™s 10 undertakings,   and have added six specific commitments of our own.
+We marked the occasion by publishing our first  brochure on biodiversity, setting out our commitments  and describing our initiatives.
+https://www.total.com/en/media/media PrintingThis document was printed with vegetable ink on  100% recycled Nautilus paper, produced from recycled   FSC-certified pulp, reducing pressure on the world™s forests.
+The E.U.
+Ecolabel-certified paper was produced   in an ISO 14001- and FSC-certified paper mill.
+The printer is certified as complying with Imprim™Vert,  the French printing industry™s environmental initiative.
+No.
+FSC/C124913.
+The Print Time to Market® concept adopted means that only copies actually distributed are  printed.
+With Citeo, Total is encouraging paper recycling.
+Sort your trash, protect the environment.
+www.citeo.com Avec Ecofoliotous les papiersse recyclent.IllustrationsTotal; Dimonika Bray Œ MIT; Michel Cecconi; Ólarvur  Frederiksen Œ Saft; Stephan Gladieu; Thierry Gonzalez;   Hutchinson; Patricia Lecomte; Christophe Lepetit; Damien Malfere; Imre Nedim; OGCI Œ CAPA; Laurent Pascal;   Éric Piermont Œ AFP Services; Laurent Zylberman;   All rights reserved.
+Design and Production   /  DisclaimerThis report, from which no legal consequences may be  drawn, is for information purposes only.
+The entities in  which Total S.A. directly or indirectly owns interests are  separate legal entities.
+Total S.A. shall not be held liable  for their acts or omissions.
+The terms ﬁTotal,ﬂ ﬁTotal Groupﬂ   and ﬁGroupﬂ may be used in this document for convenience   where general reference is made to Total S.A. and/or   its affiliates.
+Similarly, the words ﬁwe,ﬂ ﬁusﬂ and ﬁourﬂ   may also be used to refer to affiliates or to their employees.
+It cannot be inferred from the use of these expressions  that Total S.A. or any of its affiliates is involved in the  business or management of any other Total Group company.
+This document refers to a carbon intensity indicator for  energy products used by Total customers that measures  the weighted average greenhouse gas emissions   of energy products sold by Total, from their production   in Total facilities to their end use by Total customers.
+In addition to Total™s direct GHG emissions (Scope 1),   this indicator includes indirect GHG emissions (Scopes 2   and 3) that Total does not control (for the definitions   of Scopes 1, 2 and 3, refer to Total™s Registration Document).
+This document may contain forward-looking information  and statements that are based on business and financial  data and assumptions made in a given business, financial, competitive and regulatory environment.
+They may prove to be inaccurate in the future and are  subject to a number of risk factors.
+Neither Total S.A.   nor any of its affiliates assumes any obligation to investors   or other stakeholders to update in part or in full any forward-looking information or statement, objective   or trend contained in this document, whether as a result  of new information, future events or otherwise.
+Additional information concerning factors, risks and  uncertainties that may affect Total™s financial results   or activities is provided in the most recent Registration  Document, the French-language version of which is filed  with French securities regulator Autorité des Marchés  Financiers (AMF), and in Form 20-F filed with the United States Securities and Exchange Commission (SEC).Total is a major energy player that produces and markets fuel, natural gas and low- carbon electricity.
+Our 100,000 employees are committed to better energy that is  safer, more affordable, cleaner and accessible to as many people as possible.
+Active  in more than 130 countries, our ambition is to become the responsible energy major.
+total.comCorporate CommunicationsTOTAL S.A. 2, place Jean-Millier92400 Courbevoie, FranceTel.
+: +33 (0)1 47 44 45 46 Share capital:  ˚6,641,697,357.50 Registered in Nanterre: RCS 542 051 180 www.total.com
