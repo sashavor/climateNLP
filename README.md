@@ -37,12 +37,12 @@ An Example is below:
     - It is possible to run the model on questions outside of the set of questions here, however the model was not trained on those questions, so there is absolutely no guarantee on how well the model will do on those questions.
 
 - model.tar.gz
-    - Not included in this repository and must be supplied
-    - must be in this tar.gz format, or another model format that AllenNLP can automatically use to run its 'predict' command
+    - The model that we trained on several years of sustainability reports (2016-2018) can be found [here](https://drive.google.com/file/d/1nRlMtx4X2LeIgmOHlzco9-ZcfwtKVwbH/view?usp=sharing).
+    - It is possible to train your own model, but it must be saved in a tar.gz format, or another model format that [AllenNLP](https://github.com/allenai/allennlp) can automatically use to run its 'predict' command
  
 - best_weights.th
-    - Not included in this repository and must be supplied
-    - must be in this .th format, or another weights format that AllenNLP can automatically use to run its 'predict' command
+    - The weights from our model can be found [here](https://drive.google.com/file/d/1xHVi70SOdIWsG0lWBtwOlWpK3N4XHnbk/view?usp=sharing)
+    - It is possible to train your own model, but it must be saved in a .th format, or another weight format that [AllenNLP](https://github.com/allenai/allennlp) can automatically use to run its 'predict' command
 
 
 
