@@ -25,8 +25,8 @@ An Example is below:
     - Included in this repository
 
 - Input_Data_Folder
-    - Not included in this repository and must be supplied
-    - Needs to be the path to a directory containing only the plaintext files that contain the documents that you want to predict on
+    - Some sample data can be found in the [Test-data](https://github.com/sashavor/climateNLP/tree/master/Test-data) folder
+    - For training on your own data, this needs to be the path to a directory containing only the plaintext files (.txt) that contain the documents that you want to predict on
   
 - Output Folder
     - Needs to be the path to a folder that already exists, and must be supplied
