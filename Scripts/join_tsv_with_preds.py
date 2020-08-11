@@ -42,7 +42,7 @@ def join_tsv_with_preds(tsv_path, predictions_path, output_dir):
 #     all_data_output_fpath = "/".join(output_fpath.split("/")[:-1]) + "all_outputs_" + output_fpath.split("/")[-1]
 #     pos_only_output_fpath = "/".join(output_fpath.split("/")[:-1]) + "positive_only_" + output_fpath.split("/")[-1]
     
-    all_data_df = df.sort_values(by=PREDICTION_PROBABILITY_Y, ascending=False)
+    all_data_df = out_df.sort_values(by="PREDICTION_PROBABILITY_Y", ascending=False)
     
     all_data_df.to_csv(all_data_output_fpath, sep="\t", index=False)
     
