@@ -5,5 +5,5 @@ numpy==1.18.1
 overrides==3.0.0
 pandas==1.0.1
 toml==0.10.1
-torch==1.5.1
+# torch==1.5.1 # Commenting this because it is available in the mila python modules
 tqdm==4.46.1
