@@ -1,6 +1,7 @@
-import pandas as pd
 import os
 import sys
+from subprocess import call
+import pandas as pd
 from datetime import datetime
 from Scripts.generate_examples import text_to_tsv
 from Scripts.join_tsv_with_preds import join_tsv_with_preds
@@ -28,20 +29,29 @@ def main(argv):
 
         # use allennlp to predict
         start_time = datetime.now()
-        os.system(prediction_command)
+        print(prediction_command)
+        # os_result = subprocess.run(prediction_command, check=True)
+        try:
+            retcode = call(prediction_command, shell=True)
+            if retcode < 0:
+                print("Child was terminated by signal", -retcode, file=sys.stderr)
+            else:
+                print("Child returned", retcode, file=sys.stderr)
+        except OSError as e:
+            print("Execution failed:", e, file=sys.stderr)
         end_time = datetime.now()
         print("Done predicting for  ...")
 
         # compile timing
-        time_result = pd.DataFrame({fpath: (end_time - start_time).seconds()})
-        time_results.append(pd.DataFrame(performance_dict)
-
+        time_result = pd.DataFrame({fpath: [(end_time - start_time).seconds]})
+        time_results.append(pd.DataFrame(time_result))
+        print(f"What the directory holds \n {os.listdir(output_dir)}")
         print("Joining predictions output (%s) with original generated tsv (%s) ...\n\n"%(output_path, fpath))
         # join 
         join_tsv_with_preds(fpath, output_path, output_dir)
         
-    time_out = output_dir.strip("/") + "/timing.pkl"
-    time_results.to_csv(time_out)
+    time_output = output_dir + "/timing.csv"
+    time_results.to_csv(time_output)
     print("All done!")
 
 

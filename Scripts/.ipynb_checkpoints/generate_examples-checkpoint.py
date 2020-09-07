@@ -40,12 +40,12 @@ def text_to_tsv(input_dir, output_dir, question_file):
     for fname in files:
         if fname[0] != ".":
             # split text into sentences
-            fpath = input_dir.strip("/") + "/" + fname
+            fpath = input_dir + "/" + fname
             sentences = split_text_into_sentences(fpath)
 
             # generate tsv name
             out_fname = fname.split(".")[0] + ".tsv"
-            out_fpath = output_dir.strip("/") + "/" + out_fname
+            out_fpath = output_dir + "/" + out_fname
             
             # get questions dict:
             question_dict = load_questions(question_file)
