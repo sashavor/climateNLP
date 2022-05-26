@@ -102,7 +102,7 @@ toml==0.10.1
 torch==1.5.1
 tqdm==4.46.1
 transformers==2.11.0
-Twisted==20.3.0
+Twisted==22.4.0
 urllib3==1.25.9
 virtualenv==20.0.6
 wasabi==0.7.0
